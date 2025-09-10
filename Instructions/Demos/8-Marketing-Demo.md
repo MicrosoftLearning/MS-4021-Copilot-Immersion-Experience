@@ -35,7 +35,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
 1. Open Word (either in your browser or desktop application).
 
-1. In the **describe what you’d like to write** prompt box, type the following:
+1. In the **What do you want Copilot to draft?** prompt box, type the following:
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -53,7 +53,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. Save this new document as **LATAM_Market_Analysis.docx**.
+1. In the Copilot window, select Keep it to change the document from a Copilot draft to an actual Word document. Then save this new document as **LATAM_Market_Analysis.docx**.
 
 ### Copilot Chat
 
@@ -97,7 +97,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 ### Copilot in Excel
 
-1. ensure you have downloaded [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) and open the document in Excel (either on the web or desktop application).
+1. Ensure you have downloaded [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) and open the document in Excel (either on the web or desktop application).
 
 1. Select **Copilot** from the ribbon to open the Copilot pane.
 
@@ -113,7 +113,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     Can you show a correlation between social media engagement and sales?
     ```
 
-1. Next, Type in the following prompt:
+1. Next, type in the following prompt:
 
     ```text
     How many social media campaign views did we have from September to December?

@@ -35,7 +35,7 @@ We'll start by reviewing the transcript from the most recent earnings call and s
 
     ![Copilot icon in Word.](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. The Copilot pane should open. Enter the following prompt where it says **Ask me anything about this document**:
+1. The Copilot pane should open. Enter the following prompt where it says **+ What do you want Copilot to draft?**:
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -67,7 +67,6 @@ We'll start by reviewing the transcript from the most recent earnings call and s
 1. Once Copilot completes the analysis, select the **Copy** icon to save the results for the next step.
 
     ![Copy results.](../Demos/Media/Copilot-in-word-copy-results.png)
-
 
 ### Copilot Chat
 

@@ -19,9 +19,9 @@ There are no sample documents required for this demo.
 
 ### Copilot Chat
 
-Let’s start by researching the AI Act and its potential impact on Contoso’s AI hiring tool.
+Let’s start by researching the EU Artificial Intelligence Act and its potential impact on Contoso’s AI hiring tool.
 
-1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
+1. Open a browser and navigate to [M365Copilot.com](https://m365Copilot.com/).
 
 1. Ensure **Web Mode** is selected.
 
@@ -49,13 +49,13 @@ Let’s start by researching the AI Act and its potential impact on Contoso’s 
     Are there any exemptions in the AI Act that could apply to Contoso’s system?
     ```
 
-1. Now ask copilot to summarize all the information so far:
+1. Now ask Copilot to summarize all the information so far:
 
     ```text
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
     ```
 
-1. Select the hyperlink copilot provides for the new Word document to open it.
+1. Select the hyperlink Copilot provides for the new Word document to open it.
 
 1. Once opened, select **Enable Editing** and then turn on "AutoSave". Select your OneDrive account when prompted.
 
@@ -83,9 +83,9 @@ Now, we’ll draft an executive summary outlining legal risks and recommendation
     Add a section on the potential business impact of these compliance requirements.
     ```
 
-1. Other optional Refinements:
+1. Other optional refinements:
 
-    - ask Copilot to reword sections for a more professional tone.
+    - Ask Copilot to reword sections for a more professional tone.
     - Request a shorter, more concise version if the summary is too long.
     - Expand with additional sections.
 

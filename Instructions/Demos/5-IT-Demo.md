@@ -57,7 +57,7 @@ Let’s start by asking Copilot to create a project implementation plan.
     Please export the project plan to a Word document.
     ```
 
-1. Save the generated Word document as **Project_Implementation_Plan.docx**. Copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
+1. Select the link that Copilot provides to the newly created file to download it to your Downloads folder. Move the file to your OneDrive folder and open it. Copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
 
     ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -67,7 +67,7 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
 1. Open Word (either in your browser or desktop application).
 
-1. In the **describe what you’d like to write** prompt box, type the following:
+1. In the **What do you want Copilot to draft?** prompt box, type the following:
 
     ```text
     Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
