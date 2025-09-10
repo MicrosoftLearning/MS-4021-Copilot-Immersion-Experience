@@ -25,7 +25,7 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
 
 1. Launch Excel & Open the File  
 
-1. Open **Finance_Sales_Analysis.xlsx** in Excel (either in your browser or desktop application).  
+1. Open **EV_Charger_Sales_Analysis_v1.xlsx** in Excel (either in your browser or desktop application).  
 
 1. Navigate to the **"Sales by Product"** tab.  
 
