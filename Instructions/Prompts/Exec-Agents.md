@@ -82,7 +82,7 @@ Use the **Researcher Agent** to see how Copilot and agents could help. Focus on 
 
     > **NOTE:** Researcher may take 5–10 minutes to complete, depending on your request. Its responses are highly detailed, so while it’s working, try running the same prompt in Copilot Chat. Comparing the two outputs is a great way to see how each tool approaches the task.
 
-### Task 4: Conceptualize Your Agent
+### Task 4: Build Your Agent
 
 Now, take your insights and create a simple mock agent in **Copilot Studio**. Keep the focus on retrieval—your agent should help surface, organize, or summarize information.
 
