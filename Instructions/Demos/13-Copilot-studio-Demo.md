@@ -33,9 +33,9 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
 
 ### Step 1 – Navigate to Copilot Studio
 
-1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **Create agent** in the right-hand rail.
+1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **Create agent** from the navigation pane.
 
-    ![Screenshot showing create an agent link.](../Prompts/media/create-agent.png)
+    ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)
 
 1. Sign in using your credentials.
 
@@ -77,14 +77,14 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
 
 ### Step 3 – Configure the Agent
 
-1. Click **Configure** to open the agent editor.
+1. Select **Configure** to open the agent editor.
 1. Review and optionally update the **Instructions** section:
 
     ```text
     Your name is Drone Delivery Project Manager Assistant. You serve as a virtual project manager for the ReleCloud drone delivery project, with comprehensive knowledge from shared documents. Be clear and concise, avoiding long answers. If the answer is unknown, refer to the drone delivery project manager.
     ```
 
-1. Scroll down to the **Knowledge** section and click into the **Search by name or enter a URL** text bupple. Select **Files** and add the following documents to the agent’s knowledge base:
+1. Scroll down to the **Knowledge** section and select into the **Search by name or enter a URL** text bupple. Select **Files** and add the following documents to the agent’s knowledge base:
 
     - **Delivery Drone Press Release.docx**
     - **Delivery Drone Troubleshooting.docx**
@@ -109,7 +109,7 @@ In the right-hand testing pane, try asking a few of the following questions:
 
 ### Step 5 – Publish and Share
 
-1. Click **Create** to publish the agent.
+1. Select **Create** to publish the agent.
 1. Select **Change share settings** and choose **Anyone in your organization**.
 1. Copy the share link and paste it into a Teams chat for easy access.
 

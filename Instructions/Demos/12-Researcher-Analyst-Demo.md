@@ -21,7 +21,7 @@ In order to complete these demos, you will need to download the [Researcher and 
 To access these agents:  
 
 - Open the **Copilot app** from [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Use the **left navigation** to select **Researcher** or **Analyst**.  
+- Select **Researcher** or **Analyst** from the navigation pane.  
 
 > **Note:** You’ll need to point Researcher and Analyst to internal files (SharePoint/OneDrive) for grounded insights.
 
@@ -42,7 +42,7 @@ To access these agents:
 
 > **IMPORTANT:** Steps 1–4 should be completed at the beginning of the training (as indicated by slide 5) to give Researcher enough time to complete the first prompt.
 
-1. Open **Researcher** from the left navigation in the Copilot app.  
+1. Open **Researcher** from the navigation pane.  
 
     ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
 
@@ -60,7 +60,7 @@ To access these agents:
    - **/SprintCycle Charger Product Launch.docx**  
    - *(Optional)* **/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Click **Submit**.  
+1. Select **Submit**.  
 
 Researcher will:  
 
@@ -72,7 +72,9 @@ Researcher will:
 
 ### Analyst: Customer Segmentation & Financial Modeling
 
-1. Open **Analyst** from the left navigation in the Copilot app.  
+**Note:** This demo is not performed for the Executive version of the content, instead move onto the **Copilot studio** Demo.
+
+1. Open **Analyst** from the navigation pane.
 
     ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
 

@@ -50,7 +50,7 @@ Use the **Researcher Agent** to explore how Copilot or agents might help with yo
 
 **Steps:**  
 
-- In the Copilot Chat menu, expand **Agents** and select **Researcher**.  
+- In the Copilot Chat menu, expand **Agents** (if necessary) and select **Researcher**.  
 
    ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
 
@@ -62,8 +62,8 @@ Use the **Researcher Agent** to explore how Copilot or agents might help with yo
 
     > **TIP:** Keep the focus on practical, everyday use cases—like quickly surfacing a doc or pulling updates from multiple sources.
   
-    > **NOTE:** Researcher may take 5–10 minutes to complete, depending on your request. Its responses are highly detailed, so while it’s working, try running the same prompt in Copilot Chat. Comparing the two outputs is a great way to see how each tool approaches the task.
-    
+    > **NOTE:** Researcher may take 5–10 minutes (or more) to complete, depending on your request. Its responses are highly detailed, so while it’s working, try running the same prompt in Copilot Chat. Comparing the two outputs is a great way to see how each tool approaches the task.
+
 ### Task 3: Build and Test Your Agent  
 
 Now, create a simple retrieval agent in **Copilot Studio** to address your challenge.  
@@ -82,7 +82,7 @@ Now, create a simple retrieval agent in **Copilot Studio** to address your chall
 
    ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/Media/create-agent-through-describe.png)  
 
-1. Select the **Configure** Tab and add one knowledge source (e.g., **My Emails** or **My Teams chats and meetings**).
+1. Select the **Configure** tab and add one knowledge source (e.g., **My Emails** or **My Teams chats and meetings**).
 
     ![Screenshot showing knowledge sources section in agent builder.](../Prompts/Media/knowledge-sources.png)
 

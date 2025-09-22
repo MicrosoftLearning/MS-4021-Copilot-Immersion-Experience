@@ -53,13 +53,13 @@ Using **Copilot Chat**, take the challenge you identified in Task 1 and break it
 - Where does information get stuck or lost?  
 - Who is impacted most?  
 
-    **Sample Prompt (Copilot Chat – Work Mode):**
+**Try a sample prompt like this:**
 
-    ```text
-    Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
-    ```
+```text
+Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
+ ```
 
-    > **TIP:** Think about where retrieval of knowledge would save you time or help your team make faster decisions.
+> **TIP:** Think about where retrieval of knowledge would save you time or help your team make faster decisions.
 
 ### Task 3: Explore AI Solution Ideas with Researcher
 
@@ -68,7 +68,7 @@ Use the **Researcher Agent** to see how Copilot and agents could help. Focus on 
 **Steps:**
 
 - Open a new browser tab and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-- In the Copilot Chat menu, expand **Agents** and select **Researcher**  
+- In the Copilot Chat menu, expand **Agents** (if necessary) and select **Researcher**.
 
     ![Screenshot showing Researcher selected in M365 Copilot menu.](../Prompts/Media/researcher.png)  
 
@@ -80,7 +80,7 @@ Use the **Researcher Agent** to see how Copilot and agents could help. Focus on 
 
     > **TIP:** Look for opportunities where an agent could make knowledge easier to find, reuse, or share.
 
-    > **NOTE:** Researcher may take 5–10 minutes to complete, depending on your request. Its responses are highly detailed, so while it’s working, try running the same prompt in Copilot Chat. Comparing the two outputs is a great way to see how each tool approaches the task.
+    > **NOTE:** Researcher may take 5–10 minutes (or more) to complete, depending on your request. Its responses are highly detailed, so while it’s working, try running the same prompt in Copilot Chat. Comparing the two outputs is a great way to see how each tool approaches the task.
 
 ### Task 4: Build Your Agent
 
@@ -91,13 +91,13 @@ Now, take your insights and create a simple mock agent in **Copilot Studio**. Ke
 - **Start in Copilot Studio**
 
     1. Open your browser and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-    1. Select **Create agent** in the right-hand rail to launch **Copilot Studio**.
+    1. Select **Create agent** in the navigation pane to launch **Copilot Studio**.
 
         ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)
 
 - **Define your Agent (Describe tab or Configure tab)**
 
-    1. Choose the **Describe** tab and use this sample prompt (or write your own):
+    1. Choose the **Describe** tab if it's available and use this sample prompt (or write your own):
 
         ```text
         You’re a virtual assistant for our [project/team name]. Your role is to help with [key tasks]. Be concise, stay on-brand, and reference our shared resources when possible.
@@ -107,7 +107,7 @@ Now, take your insights and create a simple mock agent in **Copilot Studio**. Ke
 
         > **NOTE:** You can start from scratch or base your agent on a template, which pre-populates settings and instructions you can later customize.
 
-    1. If **Describe** isn’t available, switch to the **Configure** tab and enter the same details manually: name, description, and agent instructions.
+    1. You performed the prior step if the **Describe** tab was available. If it isn’t available, then switch to the **Configure** tab and enter the same details manually: name, description, and agent instructions.
 
         ![Screenshot showing configure agent.](../Prompts/Media/name-describe-agent.png)
 
@@ -127,7 +127,7 @@ Now, take your insights and create a simple mock agent in **Copilot Studio**. Ke
 
 - **Test and Create**
 
-    1. Use the **Test** feature (available in the right pane throughout the agent-building process) to try out your draft agent and refine any issues.
+    1. Use the **Test** feature (available in the right pane throughout the agent-building process) to try out your draft version of your agent and refine any issues.
     2. Once satisfied, select **Create** to publish the agent.
     3. Share your agent with others or open it for immediate use.  
 
