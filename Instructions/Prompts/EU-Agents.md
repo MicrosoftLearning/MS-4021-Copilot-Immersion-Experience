@@ -66,7 +66,7 @@ Use the **Researcher Agent** to explore how Copilot or agents might help with yo
 
 ### Task 3: Build and Test Your Agent  
 
-Now, create a simple retrieval agent in **Copilot Studio** to address your challenge.  
+Now, create a simple retrieval agent in **Copilot Studio lite** to address your challenge.  
 
 **Steps:**  
 

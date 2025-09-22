@@ -1,15 +1,15 @@
 ---
 demo:
-    title: 'Build an Agent with Copilot Studio'
+    title: 'Build an Agent with Copilot Studio lite'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
-# Build and Publish an Agent using Copilot Chat
+# Build and Publish an Agent using Copilot studio lite
 
-This demo walks through how to build a virtual assistant using Copilot Studio via Copilot Chat and publish it to Microsoft 365 Copilot.
+This demo walks through how to build a virtual assistant using Copilot Studio lite via Copilot Chat and publish it to Microsoft 365 Copilot.
 
 ## Demo Setup
 
@@ -25,13 +25,13 @@ In order to complete these demos, you will need to download the following files:
 
 ## Talking Points
 
-Copilot Studio lets us build custom copilots, tailored to specific projects, departments, or knowledge bases. We can give them a personality, set their boundaries, and feed them specific documents to ensure high-quality, grounded responses.
+Copilot Studio lite lets us build custom copilots, tailored to specific projects, departments, or knowledge bases. We can give them a personality, set their boundaries, and feed them specific documents to ensure high-quality, grounded responses.
 
 In this demo, we’ll create a virtual assistant for the ReleCloud drone delivery project. The assistant will know everything we’ve uploaded and will help answer team questions, saving time and improving productivity.
 
 ## Demo Steps
 
-### Step 1 – Navigate to Copilot Studio
+### Step 1 – Navigate to Copilot Studio lite
 
 1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **Create agent** from the navigation pane.
 
@@ -73,7 +73,7 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     Friendly and professional
     ```
 
-> **IMPORTANT:**  You may not be prompted for all of these options, depending on your environment. If you are not prompted, you can add this information using the **Configure** tab within Copilot Studio.
+> **IMPORTANT:**  You may not be prompted for all of these options, depending on your environment. If you are not prompted, you can add this information using the **Configure** tab within Copilot Studio lite.
 
 ### Step 3 – Configure the Agent
 

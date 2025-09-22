@@ -84,11 +84,11 @@ Use the **Researcher Agent** to see how Copilot and agents could help. Focus on 
 
 ### Task 4: Build Your Agent
 
-Now, take your insights and create a simple mock agent in **Copilot Studio**. Keep the focus on retrieval—your agent should help surface, organize, or summarize information.
+Now, take your insights and create a simple mock agent in **Copilot Studio lite**. Keep the focus on retrieval—your agent should help surface, organize, or summarize information.
 
 **Steps:**
 
-- **Start in Copilot Studio**
+- **Start in Copilot Studio lite**
 
     1. Open your browser and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
     1. Select **Create agent** in the navigation pane to launch **Copilot Studio**.
