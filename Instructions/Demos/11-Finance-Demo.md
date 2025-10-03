@@ -29,6 +29,8 @@ Use Copilot in Excel to analyze sales data, identify key trends, and calculate f
 
 1. Navigate to the **"Sales by Product"** tab.  
 
+1. select **Copilot** from the excel ribbon, then select **App skills** to open the Copilot pane.
+
 1. Use Copilot to sort the table by entering the following prompt:  
 
     ```text

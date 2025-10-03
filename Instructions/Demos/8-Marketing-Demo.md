@@ -99,7 +99,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 1. Ensure you have downloaded [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) and open the document in Excel (either on the web or desktop application).
 
-1. Select **Copilot** from the ribbon to open the Copilot pane.
+1. select **Copilot** from the excel ribbon, then select **App skills** to open the Copilot pane.
 
 1. Type in the following prompt into Excel:
 

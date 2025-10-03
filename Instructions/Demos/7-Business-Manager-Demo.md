@@ -29,6 +29,8 @@ The specific files needed for this demo are:
 
 1. **Navigate to the "Sales by Product"** tab in the Excel file.
 
+1. select **Copilot** from the excel ribbon, then select **App skills** to open the Copilot pane.
+
 1. Use Copilot to Calculate Monthly Revenue:  
 
    Let's start by figuring out which category of your business is driving the most revenue. This sheet contains three years of sales data, with thousands of rows showing sales by product by month. Although it's a routine task, this volume of data can be unwieldy. You can ask Copilot to quickly calculate the monthly revenue by product.
