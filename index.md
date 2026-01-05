@@ -14,6 +14,14 @@ Hyperlinks to each of the demos are listed below.
 {% for activity in demos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
+## Exec Demos
+
+{% assign edemos = site.pages | where_exp:"page", "page.url contains '/Instructions/Exec'" %}
+| Exec Demo |
+| --- |
+{% for activity in edemos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
+
 ## Sample Prompts for immersion experience
 
 #### [Executives](https://learn.microsoft.com/en-us/training/modules/envision-new-ideas-with-microsoft-365-copilot/) (Redirects to Microsoft Learn)
