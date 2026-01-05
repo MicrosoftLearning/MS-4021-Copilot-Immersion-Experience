@@ -11,7 +11,7 @@ demo:
 
 ## Demo Setup
 
-The demo setup instructions for this option can be found [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/Resourcefiles/Copilot_Demo_Guidance_Prep_Session.docx). Specifically, pages 1-4, which covers how to set up the email thread we'll reference in the demo below.
+The demo setup instructions for this option can be found [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Copilot_Demo_Guidance_Prep_Session.docx). Specifically, pages 1-4, which covers how to set up the email thread we'll reference in the demo below.
 
 > **IMPORTANT:**  The demo setup will require at least 4 people (optionally 6). Conduct this with your team before your planned delivery. Once completed, you can reference this email for future deliveries.
 

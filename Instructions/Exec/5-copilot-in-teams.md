@@ -15,7 +15,7 @@ To ensure a smooth demo, choose one of the following setup options:
 
 ### Option A: Meeting Recap
 
-The demo setup instructions for this option can be found [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/Resourcefiles/Copilot_Demo_Guidance_Prep_Session.docx). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we'll reference in the demo below.
+The demo setup instructions for this option can be found [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Copilot_Demo_Guidance_Prep_Session.docx). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we'll reference in the demo below.
 
 > **IMPORTANT:**
 >
