@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -135,4 +135,4 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

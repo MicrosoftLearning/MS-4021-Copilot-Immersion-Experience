@@ -7,7 +7,7 @@ demo:
 
 # Executive  Demos
 
-Pick three executive demonstrations from the following repository:[MS-4008: Microsoft 365 Copilot Interactive Experience for Executives](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+Pick three executive demonstrations under the **Exec Demos** section on the [Index page](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 The default demonstrations for this experience are:
 

@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Build an Agent with Copilot Studio'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -123,4 +123,4 @@ Once live, you can interact with the agent in Teams chat or via @mentions.
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Teams'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -131,4 +131,4 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

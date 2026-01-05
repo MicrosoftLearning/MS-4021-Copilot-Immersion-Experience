@@ -62,4 +62,4 @@ Copilot enables iterative analysis, allowing you to refine strategies and priori
 
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4008-Microsoft-365-Copilot-Interactive-Experience-for-Executives/)
+[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
