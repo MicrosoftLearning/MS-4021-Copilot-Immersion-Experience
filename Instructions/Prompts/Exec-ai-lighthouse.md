@@ -83,10 +83,8 @@ Based on what you see, what would you recommend I improve or clarify, given what
 
 > **NOTE:**  
 > To share your draft with Copilot, take a screenshot of your completed Lighthouse Canvas and paste it into Copilot:
->
 > - **Windows:** Press **Windows + Shift + S** to capture your Canvas
 > - **Mac:** Press **Command + Shift + 4** to capture your Canvas  
->
 > You can also paste your draft text directly into Copilot instead of uploading a screenshot.
 
 ## Task 3: Create a 1-Minute Executive Pitch
