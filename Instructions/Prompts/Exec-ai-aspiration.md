@@ -115,12 +115,3 @@ Identify one area where **you can lead or sponsor change** to close the gap.
 ``` text
 What is the single highest-impact action I could lead in the next 90 days to close this AI gap and accelerate measurable business value?
 ```
-
-## Final Outcome
-
-By the end of this exercise, you should have:
-
-- A clear 12-month AI aspiration
-- A snapshot of your organization's AI readiness
-- A defined AI gap and opportunity statement
-- A concrete action you could lead or sponsor

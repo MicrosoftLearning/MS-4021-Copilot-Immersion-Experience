@@ -51,3 +51,5 @@ Hyperlinks to each of the demos are listed below.
 #### [Agents - Executives](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-Agents.html)
 
 #### [Executive AI Aspirations](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-ai-aspiration.html)
+
+#### [Executive AI Lighthouse](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-ai-lighthouse.html)
