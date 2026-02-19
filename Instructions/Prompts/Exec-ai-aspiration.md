@@ -44,6 +44,7 @@ to brainstorm and refine your priorities.
     For my organization, what are the top 1–2 business priorities that AI could materially impact over the next 12 months? Focus on measurable outcomes, not specific technologies.
     ```
     > **TIP**: To tailor this to your individual context, replace **"For my organization"** with **"For my role as [insert role]"**
+    > 
     > **Capture your response** in Word, OneNote, or Copilot Pages. You will use these notes in Task 3.
 
 ### 2. Define What Success Looks Like
