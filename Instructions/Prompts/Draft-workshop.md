@@ -15,7 +15,7 @@ In this workshop, you will:
 Copilot will act as a **strategic thinking partner**, not a replacement
 for your judgment.
 
-## Part 1: Define Your 12-Month AI Aspiration (8--10 minutes)
+## Part 1: Define Your 12-Month AI Aspiration
 
 Start with outcomes - not tools.
 
