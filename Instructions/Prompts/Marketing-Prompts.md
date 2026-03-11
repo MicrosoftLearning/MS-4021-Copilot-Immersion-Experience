@@ -1,6 +1,11 @@
 ---
-task:
-    title: 'Immersion Experience - Marketing'
+lab:
+  title: Untitled exercise
+  description: Prepare for a real or fictitious product launch by gathering customer
+    insights, developing a positioning strategy, and creating a campaign overview.
+  duration: 24 minutes
+  level: 100
+  islab: true
 ---
 
 ## Immersion Experience - Marketing  
