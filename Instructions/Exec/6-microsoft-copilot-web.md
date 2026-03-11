@@ -1,6 +1,13 @@
 ---
-demo:
-    title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
+lab:
+  title: Microsoft Copilot (copilot.microsoft.com) **RETIRED**
+  description: '[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)'
+  duration: 74 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
+  - Microsoft Copilot
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
