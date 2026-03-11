@@ -1,6 +1,11 @@
 ---
-task:
-  title: Immersion Experience - AI Aspiration and Opportunity
+lab:
+  title: Untitled exercise
+  description: Explore how you can define a 12-month AI aspiration, assess your organization's
+    readiness, and identify a high-impact opportunity to accelerate AI value.
+  duration: 40 minutes
+  level: 100
+  islab: true
 ---
 
 ## AI Aspiration and Opportunity
