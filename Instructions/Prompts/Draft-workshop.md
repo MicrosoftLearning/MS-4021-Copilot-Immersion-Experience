@@ -1,6 +1,10 @@
 ---
-task:
-  title: Immersion Experience -- Define Your AI Aspiration & 90-Day Plan
+lab:
+  title: Define Your AI Aspiration & 90-Day AI Plan
+  description: 'In this workshop, you will:'
+  duration: 44 minutes
+  level: 200
+  islab: true
 ---
 
 # Define Your AI Aspiration & 90-Day AI Plan
