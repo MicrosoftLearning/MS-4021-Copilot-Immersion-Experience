@@ -1,6 +1,14 @@
 ---
-demo:
-    title: 'Demo: Copilot in Word'
+lab:
+  title: Microsoft 365 Copilot in Word
+  description: '[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)'
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
