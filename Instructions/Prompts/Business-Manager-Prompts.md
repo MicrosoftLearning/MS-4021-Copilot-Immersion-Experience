@@ -1,6 +1,11 @@
 ---
-task:
-    title: 'Immersion Experience - Business Manager'
+lab:
+  title: Untitled exercise
+  description: Optimize daily tasks by reviewing communications, sending an email,
+    and preparing for an upcoming meeting.
+  duration: 24 minutes
+  level: 100
+  islab: true
 ---
 
 ## Immersion Experience - Business Manager  
