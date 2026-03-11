@@ -1,6 +1,16 @@
 ---
-task:
-    title: 'Immersion Experience – Agents (Executives)'
+lab:
+  title: Untitled exercise
+  description: Explore how Microsoft 365 Copilot and Copilot Studio can help you address
+    a real work-related challenge by designing a simple **retrieval-based agent**.
+    This exercise will walk you through identifying an issue, breaking it down, exploring
+    where AI might help, and then creating a conceptual agent to solve it.
+  duration: 10 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Immersion Experience – Agents (Executives)
