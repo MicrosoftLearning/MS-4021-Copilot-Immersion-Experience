@@ -1,6 +1,14 @@
 ---
-demo:
-    title: 'Demo: Copilot in Excel'
+lab:
+  title: Microsoft 365 Copilot in Excel
+  description: '[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)'
+  duration: 32 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - GitHub
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
