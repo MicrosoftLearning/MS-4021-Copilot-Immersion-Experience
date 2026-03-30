@@ -16,7 +16,7 @@ Copilot will act as a **strategic thinking partner**, not a replacement for your
 
 ## Part 1: Define Your AI Aspiration
 
-Start with outcomes — not tools. Think about where AI could drive meaningful business impact across your business unit, function, or organization.
+Start with outcomes – not tools. Focus on where AI can drive measurable business impact across your business unit, function, or organization.
 
 **Sample Prompt:**
 
@@ -25,15 +25,14 @@ For my [insert business unit, function, or organization], identify the top 2–3
 
 Focus on organization-level outcomes — not individual productivity.
 
-For each, provide:
-- Title
-- Business problem or opportunity
-- Why it matters (revenue, cost, customer experience, speed, or risk)
+For each opportunity, capture:
+-Title
+-Business problem or opportunity
+-Why it matters (revenue, cost, customer experience, speed, or risk)
 
-Then recommend the highest-impact opportunity and:
-
-- Define 1–2 success metrics (KPIs)
-- Summarize a 2–3 sentence AI aspiration (focused on outcomes, not tools)
+Then define:
+-1–2 measurable success metrics 
+-A clear AI aspiration
 ```
 
 You should now have:
@@ -48,13 +47,13 @@ Now narrow from aspiration to action.
 **Sample Prompt:**
 
 ```text
-Based on this AI aspiration:
+Using this AI aspiration:
 
 [paste your AI aspiration]
 
-Suggest 2–3 practical AI initiatives that could help achieve this outcome.
+Suggest 2–3 practical AI initiatives that could realistically be executed in the next 90 days.
 
-Which one would deliver the most measurable value in the next 90 days, and why?
+Which initiative would deliver the most measurable value in the next 90 days, and why?
 ```
 
 You now have:
@@ -63,23 +62,22 @@ You now have:
 
 ## Part 3: Design Your 90-Day Plan
 
-Turn your focus into a realistic, 90-day plan.
+Turn your focus into a realistic, measurable 90-day pilot.
 
 **Sample Prompt:**
 
 ```text
-Based on my AI aspiration and selected initiative:
-
-Help me design a focused 90-day plan that delivers measurable business impact.
+Using my AI aspiration and selected initiative, design a focused 90-day plan that delivers measurable business impact.
 
 Include:
-- Strategic intent (why this matters now)
-- A simple value hypothesis (If we do X, then Y happens because Z)
-- One measurable success metric
-- 1–2 actions in the next 30 days
-- Who should be accountable
+-Strategic intent (why this matters now)
+-A clear value hypothesis (If we do X, then Y happens because Z)
+-One measurable success metric
+-1–2 concrete actions in the next 30 days
+-A clear owner accountable for delivery
 
-Keep it realistic and scoped as a pilot.
+Keep this scoped as a realistic pilot (lighthouse), not a full transformation.
+
 ```
 
 ## Part 4: Craft a 1-Minute Executive Pitch
@@ -89,7 +87,7 @@ Turn your plan into a clear, executive-ready narrative.
 **Sample Prompt:**
 
 ```text
-Based on my 90-day AI plan, help me create a clear 1-minute executive pitch.
+Using my 90-day AI plan, create a clear 1-minute executive pitch.
 
 The pitch should explain:
 - The business problem
