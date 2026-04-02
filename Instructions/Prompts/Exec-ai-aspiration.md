@@ -34,11 +34,20 @@ Focus on outcomes that would represent a meaningful shift in how your organizati
     **Sample Prompt:**
   
     ``` text
-    For my organization, what are the top 1–2 business priorities that AI could materially impact over the next 12 months? Focus on measurable outcomes, not specific technologies.
+    For my [insert business unit, function, or organization], identify the top 2–3 business challenges or opportunities where AI could materially drive value over the next 12 months.
+    
+    Focus on organization-level outcomes — not individual productivity.
+    
+    For each opportunity, capture:
+    -Title
+    -Business problem or opportunity
+    -Why it matters (revenue, cost, customer experience, speed, or risk)
+    
+    Then define:
+    -1–2 measurable success metrics 
+    -A clear AI aspiration
     ```
 
-    > **TIP**: To tailor this to your individual context, replace **"For my organization"** with **"For my role as [insert role]"**
-    > 
     > **Capture your response** in Word, OneNote, or Copilot Pages. You will use these notes in the next steps.
 
 ### 2. Define What Success Looks Like
