@@ -41,7 +41,7 @@ Focus on outcomes that would represent a meaningful shift in how your organizati
     For each opportunity, capture:
     -Title
     -Business problem or opportunity
-    -Why it matters (revenue, cost, customer experience, speed, or risk)
+    -Why it matters
     
     Then define:
     -1–2 measurable success metrics 
