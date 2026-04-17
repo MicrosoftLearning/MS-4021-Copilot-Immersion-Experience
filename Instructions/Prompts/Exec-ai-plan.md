@@ -1,15 +1,15 @@
 ---
 task:
-  title: Immersion Experience - Design Your 90-day plan
+  title: Immersion Experience - Design Your 90-day AI plan
 ---
 
-# Design Your 90-day Plan
+# Design Your 90-day AI Plan
 
 This next section shifts from defining direction to executing on it.
 
 Now that you’ve defined your AI aspiration and prioritized a high-impact initiative, the next step is to turn that focus into action.
 
-Design a focused, **90-day AI initiative** that delivers measurable business value and can scale if successful.
+Design a focused, **90-day AI plan** that delivers measurable business value and can scale if successful.
 
 You’re not solving the full aspiration yet — you’re defining a focused entry point that moves it forward.
 
