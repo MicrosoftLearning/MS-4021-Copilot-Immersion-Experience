@@ -1,9 +1,9 @@
 ---
 task:
-  title: Immersion Experience - Design Your AI Lighthouse
+  title: Immersion Experience - Design Your 90-day plan
 ---
 
-# Design Your Next AI “Lighthouse”
+# Design Your 90-day Plan
 
 This next section shifts from defining direction to executing on it.
 
@@ -13,9 +13,9 @@ Design a focused, **90-day AI initiative** that delivers measurable business val
 
 You’re not solving the full aspiration yet — you’re defining a focused entry point that moves it forward.
 
-## Step 1: Design Your AI Lighthouse
+## Step 1: Outline Your Plan
 
-Start by outlining your Lighthouse using the **AI Lighthouse Canvas** below.  
+Start by outlining your plan using the **AI Canvas** below.  
 
 Use it as a **thinking framework** — document your responses in Word, OneNote, Copilot Pages, or another tool of your choice.
 
