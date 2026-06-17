@@ -7,9 +7,9 @@ demo:
 
 # Marketing Demo
 
-**Scenario:**  
+**Scenario:**
 
-You’re in Marketing for a beverage company, your goal is to analyze market trends, create a marketing analysis, and develop a new social media campaign.
+You're on the Marketing team for a beverage brand preparing to launch Mystic Spice Premium Chai Tea in Latin America. You'll use Copilot to pull product, trend, and promotion docs into a single market analysis, then pressure-test which social campaign best fits the LATAM audience and generate a slogan, and finally interrogate your social-marketing data in Excel to size the opportunity.
 
 ## Demo Setup
 
@@ -35,7 +35,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
 1. Open Word (either in your browser or desktop application).
 
-1. In the **What do you want Copilot to draft?** prompt box, type the following:
+1. In the **Describe what you'd like to draft with Copilot?** prompt box, type the following:
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -45,6 +45,14 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
 
     > **NOTE:** Brackets indicate that a document is being referenced. When referencing a document, you can paste the shared link directly or reference the file name if it is available in your OneDrive.
 
+1. Now, select the **Copilot icon** that appears in the bottom right hand corner of the document.
+
+    ![Copilot icon in Word.](../Demos/Media/Open-Copilot-in-Word.png)
+
+1. Ensure **Allow editing** is selected.
+
+    ![Allow Editing selected.](../Demos/Media/allow-editing.png)
+
 1. Have Copilot create a new section to add social media campaign ideas:
 
     Input the following prompt:
@@ -53,7 +61,7 @@ Use Copilot in Word to draft a detailed market analysis report and brainstorm cr
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. In the Copilot window, select Keep it to change the document from a Copilot draft to an actual Word document. Then save this new document as **LATAM_Market_Analysis.docx**.
+1. Select **Done** once you're happy with the content. Then, save the document as **LATAM_Market_Analysis.docx** for use in the next part of the demo.
 
 ### Copilot Chat
 
@@ -61,21 +69,23 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. Ensure Web mode is selected.
+1. Ensure **Web mode** is selected.
 
     ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
 
 1. In the prompt window, type the following:
 
     ```text
-    Review the social media campaigns outlined in the Market Analysis Report for Mystic Spice Premium Chai Tea.docx. Evaluate which campaign might resonate best with the LATAM market based on cultural relevance, target audience preferences, and alignment with regional trends. Provide reasons for your choice and suggest any adjustments to improve its impact.
+    Review the social media campaigns outlined in the LATAM_Market_Analysis.docx file. Evaluate which campaign might resonate best with the LATAM market based on cultural relevance, target audience preferences, and alignment with regional trends. Provide reasons for your choice and suggest any adjustments to improve its impact.
     ```
 
     > **NOTE:** Do not submit the prompt yet. Move to the next step to upload the file.
 
-1. Select **Add Content** and upload the **LATAM_Market_Analysis.docx** you saved to your OneDrive in the previous demo. Then submit the prompt.
+1. Select **Add and manage sources** > **Add work content** and search for **LATAM_Market_Analysis.docx** then submit the prompt.
 
-    ![Add content Copilot chat.](../Demos/Media/add-content-copilot-chat.png)
+    ![Add content Copilot chat.](../Demos/Media/add-work-content.png)
+
+    > **NOTE:** If the file is not available, you can select **Upload images and files** to upload the file directly.
 
 1. Copilot should recommend one of the campaigns to focus on and provide suggestions for improvement. In the next prompt, we want Copilot to suggest a marketing campaign slogan for this new idea:
 
@@ -85,11 +95,7 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 1. Optionally, for the last prompt, you can ask Copilot to generate a new video for the campaign:
 
-    in Copilot chat, on the right hand side, select the **Visual Creator Agent**:
-
-    ![video creator agent.](../Demos/Media/video-creator.png)
-
-    Then, input the following prompt:
+    While in Copilot, select the app selector and then select the  **Create Agent**. Under **What do you want to create?** select **Create a video**. Then, input the following prompt:
 
     ```text
     Create a captivating social media video for Mystic Spice Chai Tea that highlights its unique flavor and vibrant appeal. The video should feature eye-catching visuals, with colors, and themes that resonate with young professionals and tea enthusiasts.
@@ -97,9 +103,15 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
 
 ### Copilot in Excel
 
+Now let's switch gears and use Copilot in Excel to size the social-marketing opportunity — we'll ask questions of the campaign data without altering the underlying sheet.
+
 1. Ensure you have downloaded [Contoso_Chai_Tea_social_marketing_trends.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_Chai_Tea_social_marketing_trends.xlsx) and open the document in Excel (either on the web or desktop application).
 
-1. select **Copilot** from the excel ribbon, then select **App skills** to open the Copilot pane.
+1. Select the **Copilot icon** in the bottom right hand corner of the document.
+
+    ![Copilot icon in Excel.](../Demos/Media/Open-Copilot-in-Excel.png)
+
+1. Switch from **Edit** mode to **Chat** mode in the Copilot pane.
 
 1. Type in the following prompt into Excel:
 
@@ -118,5 +130,9 @@ Use Copilot Chat to evaluate the effectiveness of proposed social media campaign
     ```text
     How many social media campaign views did we have from September to December?
     ```
+
+## Key Takeaway
+
+In one sitting, you took a campaign from blank page to data-backed plan — using **Copilot in Word** to pull product, trend, and promotion docs into a single market analysis with fresh social-campaign ideas; **Copilot Chat** to evaluate which campaign best fits the LATAM audience and spin up a culturally resonant slogan; and **Copilot in Excel** to interrogate your social-marketing data and quantify the opportunity. What used to span days of research, drafting, and analysis collapses into a focused, end-to-end workflow.
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

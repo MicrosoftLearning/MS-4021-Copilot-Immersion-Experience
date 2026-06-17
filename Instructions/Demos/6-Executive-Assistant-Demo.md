@@ -9,9 +9,9 @@ demo:
 
 **Scenario:**
 
-You’ve been tasked with summarizing the latest earnings conference call transcript for your executive. This task includes extracting key insights, creating an executive summary, and preparing for a follow-up meeting.
+You're an Executive Assistant, and your executive just asked for a quick read-out on the latest earnings conference call before their next leadership sync. You'll use Copilot to pull the key points and a deeper analysis out of the full transcript, shape that material into a tight executive summary with talking points, and then schedule a follow-up meeting with a draft agenda ready to go.
 
-## Demo setup
+## Demo Setup
 
 The sample documents can be found in the MS-4021 GitHub repository [here](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles):
 
@@ -21,36 +21,37 @@ The specific files needed for this demo are:
 
 > **NOTE:** Allow up to 10 minutes for these files to sync to your OneDrive after downloading. To avoid delays during the demo, ensure these files are downloaded and available in your OneDrive well in advance. If the files are not available, open the documents and copy the shared file links to use in the demo.
 
-## Demo Steps
+## Demos
 
 ### Copilot in Word
 
-We'll start by reviewing the transcript from the most recent earnings call and summarizing the key points for your executive.
+We'll start by reviewing the transcript from the most recent earnings call and pulling out the key points for your executive.
 
-1. Select and open the **Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx** file in Word (either in your browser or desktop application).
+1. Open the **Microsoft_FY24_Second_Quarter_Earnings_Conference_Call_Transcript.docx** file in Word (either in your browser or desktop application).
 
-    > **NOTE:** You may want to quickly scroll through the document to show how large it is and that it’s not a simple task to summarize it.
+    > **NOTE:** You may want to quickly scroll through the document to show how large it is and how time-consuming it would be to summarize manually.
 
-1. Select the Copilot icon from the Ribbon:
+1. Select the **Copilot icon** in the bottom right hand corner of the document.
 
-    ![Copilot icon in Word.](../Demos/Media/Copilot-in-word-ribbon.png)
+    ![Copilot icon in Word.](../Demos/Media/Open-Copilot-in-Word.png)
 
-1. The Copilot pane should open. Enter the following prompt where it says **+ What do you want Copilot to draft?**:
+1. In the Copilot pane, switch to **Chat** mode. We'll use Chat (not Edit) so responses appear in the chat pane with source citations and the underlying transcript stays untouched.
+
+1. Enter the following prompt:
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
     ```
 
-1. Imagine your executive wants to know what Satya Nadella specifically discussed during the call. Use the following prompt:
+1. Now imagine your executive wants to know what Satya Nadella specifically discussed. Enter the following prompt:
 
     ```text
     Provide a brief summary of Satya Nadella's remarks during the earnings call.
     ```
 
-   - Show how Copilot includes references for each bullet point, enabling quick navigation to specific sections.  
-   - Click one reference to demonstrate how Copilot instantly brings you to the relevant content in the document.
+    - Each bullet includes a reference. Select one to jump to the exact section in the transcript.
 
-1. To create a detailed report, ask Copilot:
+1. To create a detailed report, enter the following prompt:
 
     ```text
     Analyze the Microsoft FY24 Second Quarter Earnings Conference Call document to provide a comprehensive report that includes:
@@ -62,7 +63,7 @@ We'll start by reviewing the transcript from the most recent earnings call and s
     - Key strategic initiatives and future outlook as discussed in the call.
     ```
 
-    > **Tip:** Mention that this is a complex prompt and Copilot may take some time to generate the response.
+    > **TIP:** This is a complex prompt and Copilot may take a moment to generate the response.
 
 1. Once Copilot completes the analysis, select the **Copy** icon to save the results for the next step.
 
@@ -86,15 +87,19 @@ The report provided by Word is a great starting point, but now we want to use Co
     [paste the Word output here]
     ```
 
-    > **Note:** Clean up any extraneous text from the copied content to ensure clarity.
+    > **NOTE:** Clean up any extraneous text from the copied content to ensure clarity.
 
 1. Refine the summary into a concise format:
 
     ```text
-    Summarize this executive summary into a more concise format by focusing on the most critical insights and metrics for each speaker. Use a structured format with headings and bullet points to improve readability. Export to a Word document.
+    Summarize this executive summary into a more concise format by focusing on the most critical insights and metrics for each speaker. Use a structured format with headings and bullet points to improve readability.
     ```
 
-   - If Copilot doesn’t export the document, rephrase the request: “Save this summary as a Word document.”
+1. Once you're happy with the summary, export the response directly to Word. At the bottom of Copilot's response, select the **More options (…)** menu and choose **Export to Word**.
+
+    ![Export to Word option in Copilot Chat response menu.](../Demos/Media/export-to-word.png)
+
+    > **NOTE:** Copilot saves the response as a Word document in your OneDrive. Select **Open Word** to open the Word document in a new browser tab.
 
 1. With the executive summary complete, ask Copilot:
 
@@ -106,9 +111,9 @@ The report provided by Word is a great starting point, but now we want to use Co
 
 In this demo, we'll use Copilot in Outlook to set up a meeting with the executive to get them up to speed on everything that happened during the Second Quarter Earnings Conference Call.
 
-1. Open a browser and navigate to [outlook.office.com](https://outlook.office.com.com/).
+1. Open a browser and navigate to [outlook.office.com](https://outlook.office.com/).
 
-1. In the Outlook ribbon, select the Copilot Icon to open up the Copilot pane.
+1. Select the **Copilot** icon to the right of the ribbon.
 
 1. Use the following prompt to schedule a sync-up:
 
@@ -116,18 +121,22 @@ In this demo, we'll use Copilot in Outlook to set up a meeting with the executiv
     I need to schedule a 30-minute meeting with [/Pick a colleague] tomorrow afternoon to discuss the Second Quarter Earnings Conference Call. Can you suggest a time that works? If they are unavailable, provide an alternative.
     ```
 
-1. Copilot should suggest a time and date for the meeting. The prompt displays a calendar item that can be sent or edited. Select **Edit**.
+1. Copilot should suggest a time and date. The prompt displays a calendar item that can be sent or edited. Select **Edit and send**.
 
-1. Switch to scheduling assistant to show that the time suggested by Copilot works for the project manager. You should both be free.
+1. Switch to **Scheduling Assistant** to show that the time suggested by Copilot works for both of you.
 
 1. Switch back to the event tab and then select **Draft with Copilot** in the event body.
 
 1. In the prompt window, type the following:
 
     ```text
-    I’m meeting with my boss to discuss key updates and strategic initiatives they missed from the Second Quarter Earnings Conference Call. Create an agenda to discuss financial performance, AI and technology integration, strategic acquisitions, productivity updates, and future outlook.
+    I'm meeting with my boss to discuss key updates and strategic initiatives they missed from the Second Quarter Earnings Conference Call. Create an agenda to discuss financial performance, AI and technology integration, strategic acquisitions, productivity updates, and future outlook.
     ```
 
-1. Optionally, before selecting **Keep it**, you can ask Copilot to make it longer, shorter, or change the tone of the drafted agenda.
+1. Optionally, before selecting **Keep it**, ask Copilot to **make it longer**, **make it shorter**, or **change the tone**.
+
+## Key Takeaway
+
+In a single demo, you turned a sprawling earnings call into a leadership-ready briefing — using **Copilot in Word** to extract the key points and a deep analysis straight from the transcript, **Copilot Chat** to shape it into a concise executive summary with talking points, and **Copilot in Outlook** to schedule the follow-up sync with a ready-to-send agenda. Prep work that normally takes a full morning compresses into a focused, end-to-end workflow.
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
