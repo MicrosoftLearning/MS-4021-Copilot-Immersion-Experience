@@ -23,7 +23,7 @@ The specific files needed for this demo are:
 
 ## Demos
 
-### Edit with Copilot in Excel
+### Copilot in Excel
 
 1. Launch Excel (either in your browser or desktop application) and open the **EV_Charger_Sales_Analysis_v1.xlsx** file.
 

@@ -55,7 +55,7 @@ We'll start in Copilot Chat (Web mode) to research the launch space and draft a 
 
     > **NOTE:** Copilot saves the response as a word document in your OneDrive. Select **Open Word** to open the word document in a new browser tab.
 
-### Edit with Copilot in Word
+### Copilot in Word
 
 Now we'll move the draft into Word and use **Edit with Copilot** to rewrite it in our established voice and add a fun intro and outro.
 
@@ -85,7 +85,7 @@ Now we'll move the draft into Word and use **Edit with Copilot** to rewrite it i
 
 1. Review the new intro and outro and select **Done** when satisfied.
 
-### Edit with Copilot in Outlook
+### Copilot in Outlook
 
 Finally, we'll send the polished post to the communications community as a newsletter-style email.
 

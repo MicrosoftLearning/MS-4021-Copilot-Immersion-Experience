@@ -67,7 +67,7 @@ The specific files needed for this demo are:
 
 1. Once opened, select **Enable Editing** and then turn on **AutoSave**. Select your OneDrive account if prompted.
 
-### Edit with Copilot in Word
+### Copilot in Word
 
 We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
 

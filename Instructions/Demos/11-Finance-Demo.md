@@ -23,7 +23,7 @@ The specific files needed for this demo are:
 
 ## Demos
 
-### Edit with Copilot in Excel
+### Copilot in Excel
 
 Use Copilot in Excel to analyze sales data, identify key trends, and calculate financial metrics.
 

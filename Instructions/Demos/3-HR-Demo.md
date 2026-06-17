@@ -31,7 +31,7 @@ The specific files needed for this demo are:
 
 ## Demos
 
-### Edit with Copilot in Word
+### Copilot in Word
 
 Let's start by asking Copilot in Word to generate a job description.
 
@@ -76,7 +76,7 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
 1. Optionally, you can ask Copilot Chat to export its response to a Word document to highlight this feature.
 
-### Edit with Copilot in Outlook
+### Copilot in Outlook
 
 Lastly, use Copilot in Outlook to draft an email to the hiring team regarding the top candidates.
 
