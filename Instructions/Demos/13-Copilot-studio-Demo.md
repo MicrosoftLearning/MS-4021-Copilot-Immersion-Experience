@@ -33,13 +33,15 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
 
 ### Step 1 – Navigate to Copilot Studio lite
 
-1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **Create agent** from the navigation pane.
+1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **New agent** from the navigation pane.
 
-    ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)
+    ![Screenshot showing new agent link.](../Demos/Media/New-agent.png)
 
-1. Sign in using your credentials.
+1. Sign in using your credentials if prompted.
 
 ### Step 2 – Define Your Agent
+
+1. Select **Skip to configure**.
 
 1. Add the following description when prompted:
 
@@ -47,7 +49,7 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     You're a virtual project manager assistant for our drone delivery project. You know everything about the project from the documents we've shared with you, and are happy to help team members get the information they need.
     ```
 
-   ![Screenshot showing Describe feature.](../Prompts/Media/create-agent-through-describe.png)
+   ![Screenshot showing Describe feature.](../Demos/Media/describe-agent.png)
 
 1. Name the assistant:
 
@@ -77,7 +79,6 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
 
 ### Step 3 – Configure the Agent
 
-1. Select **Configure** to open the agent editor.
 1. Review and optionally update the **Instructions** section:
 
     ```text
@@ -92,20 +93,22 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     - **Upselling Opportunities.docx**
     - **Delivery Drone FAQ.docx**
 
-        ![Screenshot showing Knowledge sources.](../Prompts/Media/knowledge-sources.png)
+        ![Screenshot showing Knowledge sources.](../Demos/Media/knowledge-sources.png)
 
-### Step 4 – Test Your Agent
+### Step 4 – Preview Your Agent
 
-In the right-hand testing pane, try asking a few of the following questions:
+1. Select the **Preview** tab to test the agent. 
 
-- `Tell me about the ReleCloud Delivery Drone.`
-- `How do I fix the drone error code D-101?`
-- `What are the upsell opportunities for ReleCloud?`
-- `What’s the duration of Phase 1 of the delivery drone project?`
+1. In the right-hand testing pane, try asking a few of the following questions:
 
-> **IMPORTANT:**   It can take some time for the agent to process the documents and provide accurate answers. If you receive an error message, wait a few minutes and try again.
+    - `Tell me about the ReleCloud Delivery Drone.`
+    - `How do I fix the drone error code D-101?`
+    - `What are the upsell opportunities for ReleCloud?`
+    - `What’s the duration of Phase 1 of the delivery drone project?`
 
-> **TIP:** You can also test via Microsoft Teams once the agent is live.
+    > **IMPORTANT:**   It can take some time for the agent to process the documents and provide accurate answers. If you receive an error message, wait a few minutes and try again.
+
+    > **TIP:** You can also test via Microsoft Teams once the agent is live.
 
 ### Step 5 – Publish and Share
 

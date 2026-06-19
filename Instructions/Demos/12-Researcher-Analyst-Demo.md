@@ -87,9 +87,9 @@ Researcher will:
 
 1. Attach the file using **+**:  
 
-   - **BoulderEV ebike Internal Market Forecast.xlsx**  
+    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
-    ![Screenshot showing attach files in Analyst.](../Prompts/Media/Analyst-Attach-Files.png)  
+    ![Add content Copilot chat.](../Demos/Media/Upload-content.png)
 
 1. Click **Submit**.  
 
