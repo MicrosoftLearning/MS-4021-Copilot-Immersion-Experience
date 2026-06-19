@@ -46,9 +46,7 @@ Now I can ask Copilot questions and get more information about this meeting. For
 
     > **IMPORTANT:**  Do not show any meetings or chats that contain confidential data.
 
-1. Select the **Recap** tab.
-
-    ![Screenshot showing recap in Copilot in Teams.](../Exec/Media/teams_recap.png)
+1. Navigate it the meeting recap.
 
 1. Point out the **Speakers**.
 1. Select **Topics**.
@@ -63,21 +61,21 @@ Now I can ask Copilot questions and get more information about this meeting. For
 
     ![Screenshot showing Copilot option in Copilot in Teams.](../Exec/Media/teams_copilot.png)
 
-1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Can you list action items and owners in a table?
     ```
 
 1. Select **Send**.
-1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Did anyone strongly oppose the decision, and how do you know?
     ```
 
 1. Select **Send**.
-1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Based on the transcript, when would you recommend we launch the product and why?
@@ -107,27 +105,15 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
 
     ![Screenshot showing Open Copilot in Teams Chat.](../Exec/Media/teams_open_copilot.png)
 
-1. In the Copilot chat pane that opens, select **Highlights from the past day*** for a quick summary of chats from the past  day.
+1. In the Copilot chat pane that opens, select **Summarize this chat**.
 
-    ![Screenshot showing Open Copilot in Teams Chat.](../Exec/Media/teams_highlights.png)
-
-1. In the **Ask a question about this chat** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     What are the open items?
     ```
 
     > **Note:**  Feel free to choose an alternative prompt example that you believe will target your audience better.
-
-1. Under the chat history, in the **Type a message** text box, start typing a reply. **Do not hit send yet.**
-
-1. With your reply draft, select Copilot from the **Type a message** text box.
-
-    ![Screenshot showing Open Copilot in Teams Chat thread.](../Exec/Media/teams_open_copilot_chat.png)
-
-1. Experiment with the **Rewrite** and **Adjust** copilot options to further demonstrate Copilots capabilities.
-
-    ![Screenshot showing Rewrite and Adjust in Teams Copilot.](../Exec/Media/teams_rewrite_adjust.png)
 
 ---
 

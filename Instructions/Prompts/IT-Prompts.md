@@ -41,7 +41,7 @@ Using **Copilot in Word**, draft an engaging announcement for end users about ne
 **Steps**:
 
 - Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
-- Enter your prompt where it says **"Describe what you'd like to write"**.
+- Enter your prompt where it says **"Describe what you'd like to draft with Copilot"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
@@ -59,8 +59,9 @@ Using **Copilot in Forms**, create a survey to collect user feedback about their
 
 **Steps**:
 
-- Open a new browser tab and navigate to [forms.office.com]https://forms.office.com/
-- Select **New form** in the top left hand corner of the screen.
+- Open a new browser tab and navigate to [forms.cloud.microsoft.com](https://forms.cloud.microsoft.com/)
+- Select the **Feedback** scenario for options presented.
+- Select **Draft with Copilot**.
 
 **Sample Prompt**:
 

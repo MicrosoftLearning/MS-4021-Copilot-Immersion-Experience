@@ -7,9 +7,9 @@ demo:
 
 # IT Demo
 
-**Scenario:**  
+**Scenario:**
 
-As an IT Infrastructure Manager, you're planning to install a new network security product into your corporate network.
+You're an IT Infrastructure Manager at Contoso, and you've just been asked to roll out a new network security product — Contoso CipherGuard — across the corporate network. You'll use Copilot to build a reusable project implementation plan template, draft a CipherGuard-specific version of that plan grounded in the product specification, and turn the finished plan into an executive presentation.
 
 ## Demo Setup
 
@@ -25,11 +25,11 @@ The specific files needed for this demo are:
 
 ### Copilot Chat
 
-Let’s start by asking Copilot to create a project implementation plan.
+Let's start by asking Copilot to create a reusable project implementation plan template we can apply to any rollout — starting with our network security product.
 
 1. Open a browser and navigate to [M365copilot.com](https://m365copilot.com/).
 
-1. Ensure Web mode is selected.
+1. Ensure **Web mode** is selected.
 
     ![screenshot showing web mode tab.](../Prompts/Media/web-mode.png)
 
@@ -49,36 +49,42 @@ Let’s start by asking Copilot to create a project implementation plan.
     Please add the following sections to the existing plan: testing and QA, training, communication, documentation and reporting, stakeholder analysis, project timeline, and risk assessment and mitigation. Ensure these sections provide detailed action steps and align with the existing content. Avoid duplicating any items already included in the original plan.
     ```
 
-1. Lastly, have Copilot output the proposed project plan to a Word document:
+1. Once you're happy with the draft, export the response directly to Word. At the bottom of Copilot's response, select the **More options (…)** menu and choose **Export to Word**.
 
-    Input the following prompt:
+    ![Export to Word option in Copilot Chat response menu.](../Demos/Media/export-to-word.png)
 
-    ```text
-    Please export the project plan to a Word document.
-    ```
+    > **NOTE:** Copilot saves the response as a Word document in your OneDrive. Select **Open Word** to open the Word document in a new browser tab.
 
-1. Select the link that Copilot provides to the newly created file to download it to your Downloads folder. Move the file to your OneDrive folder and open it. Copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
+1. In the new Word document tab, rename the file to **Project Implementation Plan.docx**. Then copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
 
     ![Share link.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
 ### Copilot in Word
 
-We'll now ask Copilot to expand on these strategies and draft proposals on how to implement them.
+Now we'll use that template alongside the CipherGuard product specification to draft a deployment plan tailored to this rollout.
 
-1. Open Word (either in your browser or desktop application).
+> **TIP — Optional alternative using the Word agent:** Instead of leaving Copilot Chat to open Word, you can stay in Chat, `@`-mention the **Word** agent, and have it create the new document for you. Use a prompt like:
+>
+> ```text
+> @Word Using the [Contoso_CipherGuard_Product_Specification.docx] for product details and the project plan we just created as a structural template, draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template. Save it as Contoso_Project_Plan.docx.
+> ```
+>
+> When it's done, open the resulting **Contoso_Project_Plan.docx** from your OneDrive and skip ahead to the PowerPoint section. **Heads up:** the Word agent can take several minutes to complete, so the in-app flow below is usually a safer choice during a live demo.
 
-1. In the **What do you want Copilot to draft?** prompt box, type the following:
+1. Open a new Word document (either in your browser or desktop application).
+
+1. In the **Describe what you'd like to draft with Copilot?** prompt box, type the following:
 
     ```text
-    Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
+    Using the [Contoso_CipherGuard_Product_Specification.docx] for product details and the [Project Implementation Plan.docx] as a structural template, draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
     ```
 
-    > **NOTE:** Brackets indicate that a document is being referenced.
-    > 1. CipherGuard Product Specification.docx = [Contoso_CipherGuard_Product_Specification.docx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Contoso_CipherGuard_Product_Specification.docx)
-    > 1. Project Implementation Plan.docx = Use the link copied in the previous demo.
-    > When referencing a document, you can paste the link directly or reference the file name if it is available in your OneDrive.
+    > **NOTE:** Brackets indicate that a document is being referenced. Attach the files directly, paste their OneDrive shared links, or reference them by name using `/`. Use these for this demo:
+    >
+    > - **Contoso_CipherGuard_Product_Specification.docx** — the file you downloaded in Demo Setup.
+    > - **Project Implementation Plan.docx** — use the shared link you copied at the end of the previous section.
 
-1. Select **Keep it** or, if time permits, demonstrate how to tweak the document using Copilot.
+1. Select **Keep it** when satisfied with the output.
 
 1. Once finished, save the document as **Contoso_Project_Plan.docx** and copy the shared URL (enable AutoSave and select your OneDrive account if prompted).
 
@@ -86,24 +92,30 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 
 ### Copilot in PowerPoint
 
-We'll now use Copilot to generate a PowerPoint presentation based on the new proposal to implement the Contoso CipherGuard product.
+Finally, we'll use Copilot to generate a PowerPoint presentation based on the CipherGuard implementation plan.
 
 1. Launch Microsoft PowerPoint from your browser [PowerPoint.new](https://PowerPoint.new) or use the desktop application.
 
 1. Open a new blank presentation.
 
-1. In the Copilot pane, select the "Create presentation from file" prompt.
+1. Select the **Copilot icon** in the bottom right hand corner of the presentation.
 
-1. Paste the shared link for the **Contoso_Project_Plan.docx** document and select **Send**.
+    ![Copilot icon in PowerPoint.](../Demos/Media/Open-Copilot-in-PowerPoint.png)
 
-    The full prompt should look like:
+1. In the Copilot pane, type the following prompt:
 
     ```text
     Create a presentation from [Link to Contoso_Project_Plan.docx].
     ```
 
+    > **NOTE:** Paste the shared link for the **Contoso_Project_Plan.docx** document or upload by selecting **Add work content** and then **Upload images and files**.
+
 1. Copilot begins generating slides based on the project plan, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 
-    > **NOTE:** Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
+    > **NOTE:** Generating slides may take up to two minutes, depending on the document's complexity and number of slides.
+
+## Key Takeaway
+
+In a single demo, you turned a generic deployment request into a CipherGuard-ready rollout package — using **Copilot Chat** to build a reusable project implementation plan template, **Copilot in Word** to draft a product-specific plan grounded in the CipherGuard specification, and **Copilot in PowerPoint** to generate the executive presentation. Project work that normally takes weeks of templating and back-and-forth compresses into a focused, end-to-end workflow.
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

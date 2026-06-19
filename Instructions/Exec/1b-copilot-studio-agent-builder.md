@@ -1,49 +1,47 @@
 ---
 demo:
-    title: 'Demo: Build an Agent with Copilot Studio'
+    title: 'Demo: Build an Agent with Agent Builder'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
-# Build and Publish an Agent using Copilot Chat
+# Build and Publish an Agent using Agent builder
+
+This demo walks through how to build a virtual assistant using Agent builder via Copilot Chat and publish it to Microsoft 365 Copilot.
 
 ## Demo Setup
 
-This demo walks through how to build a virtual assistant using Copilot Studio via Copilot Chat and publish it to Microsoft 365 Copilot.
+In order to complete these demos, you will need to download the following files:
 
-To access agent builder navigate to:
+- [**Delivery Drone Press Release.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Delivery_Drone_Press_Release.docx)
+- [**Delivery Drone Troubleshooting.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Delivery_Drone_Troubleshooting.docx)
+- [**Delivery Drone SOP.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Delivery_Drone_SOP.docx)
+- [**Upselling Opportunities.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Upselling_Opportunities.docx)
+- [**Delivery Drone FAQ.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Delivery_Drone_FAQ.docx)
 
-- [Copilot Chat](https://m365.cloud.microsoft/chat)
-
-You'll also need download the following word documents:
-
-- [**Delivery Drone Press Release.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_Press_Release.docx)
-- [**Delivery Drone Troubleshooting.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_Troubleshooting.docx)
-- [**Delivery Drone SOP.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_SOP.docx)
-- [**Upselling Opportunities.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Upselling_Opportunities.docx)
-- [**Delivery Drone FAQ.docx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Delivery_Drone_FAQ.docx)
-
-> **NOTE:**  It can take up to 10 minutes for these files to sync to your OneDrive (required to reference file later). To expedite this process, you can open the document once its synced to your OneDrive and then close it, which will add it to your Most Recently Used (MRU) list.
+> **TIP:** Before delivering the demo, you can create a SharePoint site in your demo environment to store all the files for easy access. Alternatively, you can store the files locally and reference them directly in your prompts using **/**.
 
 ## Talking Points
 
-Copilot Studio lets us build custom copilots, tailored to specific projects, departments, or knowledge bases. We can give them a personality, set their boundaries, and feed them specific documents to ensure high-quality, grounded responses.
+Agent builder lets us build custom copilots, tailored to specific projects, departments, or knowledge bases. We can give them a personality, set their boundaries, and feed them specific documents to ensure high-quality, grounded responses.
 
 In this demo, we’ll create a virtual assistant for the ReleCloud drone delivery project. The assistant will know everything we’ve uploaded and will help answer team questions, saving time and improving productivity.
 
 ## Demo Steps
 
-### Step 1 – Navigate to Copilot Chat or Copilot Studio
+### Step 1 – Navigate to Agent builder
 
-1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **Create an agent** in the right-hand rail.  
-   OR  
-   Go directly to [https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com) and click **Create** in the left-hand rail.
+1. Go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and select **New agent** from the navigation pane.
 
-1. Sign in using your credentials.
+    ![Screenshot showing new agent link.](../Demos/Media/New-agent.png)
+
+1. Sign in using your credentials if prompted.
 
 ### Step 2 – Define Your Agent
+
+1. Select **Skip to configure**.
 
 1. Add the following description when prompted:
 
@@ -51,7 +49,7 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     You're a virtual project manager assistant for our drone delivery project. You know everything about the project from the documents we've shared with you, and are happy to help team members get the information they need.
     ```
 
-   ![Screenshot showing Describe feature.](../Exec/Media/create-agent-through-describe.png)
+   ![Screenshot showing Describe feature.](../Demos/Media/describe-agent.png)
 
 1. Name the assistant:
 
@@ -77,20 +75,17 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     Friendly and professional
     ```
 
-> **IMPORTANT:**  You may not be prompted for all of these options, depending on your environment. If you are not prompted, you can add this information using the **Configure** tab within Copilot Studio.
+> **IMPORTANT:**  You may not be prompted for all of these options, depending on your environment. If you are not prompted, you can add this information using the **Configure** tab within Agent builder.
 
 ### Step 3 – Configure the Agent
 
-> **Note:**  If you're using Copilot Studio directly (https://copilotstudio.microsoft.com/), you may need to create the agent first before you can return and configure it.
-
-1. Click **Configure** to open the agent editor.
 1. Review and optionally update the **Instructions** section:
 
     ```text
     Your name is Drone Delivery Project Manager Assistant. You serve as a virtual project manager for the ReleCloud drone delivery project, with comprehensive knowledge from shared documents. Be clear and concise, avoiding long answers. If the answer is unknown, refer to the drone delivery project manager.
     ```
 
-1. Scroll down to the **Knowledge** section and click into the **Search by name or enter a URL** text bupple. Select **Files** and add the following documents to the agent’s knowledge base:
+1. Scroll down to the **Knowledge** section and select into the **Search by name or enter a URL** text bupple. Select **Files** and add the following documents to the agent’s knowledge base:
 
     - **Delivery Drone Press Release.docx**
     - **Delivery Drone Troubleshooting.docx**
@@ -98,29 +93,30 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
     - **Upselling Opportunities.docx**
     - **Delivery Drone FAQ.docx**
 
-        ![Screenshot showing Knowledge sources.](../Exec/Media/knowledge-sources.png)
+        ![Screenshot showing Knowledge sources.](../Demos/Media/knowledge-sources.png)
 
-### Step 4 – Test Your Agent
+### Step 4 – Preview Your Agent
 
-In the right-hand testing pane, try asking a few of the following questions:
+1. Select the **Preview** tab to test the agent. 
 
-- `Tell me about the ReleCloud Delivery Drone.`
-- `How do I fix the drone error code D-101?`
-- `What are the upsell opportunities for ReleCloud?`
-- `What’s the duration of Phase 1 of the delivery drone project?`
+1. In the right-hand testing pane, try asking a few of the following questions:
 
-> **IMPORTANT:**   It can take some time for the agent to process the documents and provide accurate answers. If you receive an error message, wait a few minutes and try again.
+    - `Tell me about the ReleCloud Delivery Drone.`
+    - `How do I fix the drone error code D-101?`
+    - `What are the upsell opportunities for ReleCloud?`
+    - `What’s the duration of Phase 1 of the delivery drone project?`
 
-> **TIP:** You can also test via Microsoft Teams once the agent is live.
+    > **IMPORTANT:**   It can take some time for the agent to process the documents and provide accurate answers. If you receive an error message, wait a few minutes and try again.
+
+    > **TIP:** You can also test via Microsoft Teams once the agent is live.
 
 ### Step 5 – Publish and Share
 
-1. Click **Create** to publish the agent.
+1. Select **Create** to publish the agent.
 1. Select **Change share settings** and choose **Anyone in your organization**.
 1. Copy the share link and paste it into a Teams chat for easy access.
 
 Once live, you can interact with the agent in Teams chat or via @mentions.
 
----
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

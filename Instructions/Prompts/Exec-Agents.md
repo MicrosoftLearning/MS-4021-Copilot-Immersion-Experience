@@ -5,14 +5,14 @@ task:
 
 ## Immersion Experience – Agents (Executives)
 
-Explore how Microsoft 365 Copilot and Copilot Studio can help you address a real work-related challenge by designing a simple **retrieval-based agent**. This exercise will walk you through identifying an issue, breaking it down, exploring where AI might help, and then creating a conceptual agent to solve it.  
+Explore how Microsoft 365 Copilot and Agent builder can help you address a real work-related challenge by designing a simple **retrieval-based agent**. This exercise will walk you through identifying an issue, breaking it down, exploring where AI might help, and then creating a conceptual agent to solve it.  
 
 You'll perform four tasks:
 
 - Identify a work-related issue  
 - Break down the problem and explore where AI could help  
 - Use **Researcher** to uncover insights and solution ideas  
-- Conceptualize and mock up a retrieval-based agent in **Copilot Studio**  
+- Conceptualize and mock up a retrieval-based agent in **Agent builder**  
 
 > **NOTE:** Sample prompts are provided to help you get started—feel free to personalize them to fit your situation. 
 >
@@ -63,7 +63,7 @@ Break down the problem of [insert challenge]. Identify root causes, pain points,
 
 ### Task 3: Explore AI Solution Ideas with Researcher
 
-Use the **Researcher Agent** to see how Copilot and agents could help. Focus on solutions that retrieve, organize, or summarize knowledge—not automate tasks. 
+Use the **Researcher Agent** to see how Copilot and agents could help. Focus on solutions that retrieve, organize, or summarize knowledge—not automate tasks.
 
 **Steps:**
 
@@ -75,7 +75,7 @@ Use the **Researcher Agent** to see how Copilot and agents could help. Focus on 
     **Sample Prompt (Researcher Agent):**
 
     ```text
-    Explore possible AI solutions to address [insert problem]. Focus on retrieval-based approaches using Microsoft Copilot, Copilot Studio agents, or connected knowledge sources. Summarize three possible solution approaches, their benefits, and limitations.
+    Explore possible AI solutions to address [insert problem]. Focus on retrieval-based approaches using Microsoft Copilot, Agent builder agents, or connected knowledge sources. Summarize three possible solution approaches, their benefits, and limitations.
     ```
 
     > **TIP:** Look for opportunities where an agent could make knowledge easier to find, reuse, or share.
@@ -84,32 +84,26 @@ Use the **Researcher Agent** to see how Copilot and agents could help. Focus on 
 
 ### Task 4: Build Your Agent
 
-Now, take your insights and create a simple mock agent in **Copilot Studio lite**. Keep the focus on retrieval—your agent should help surface, organize, or summarize information.
+Now, take your insights and create a simple mock agent in **Agent builder lite**. Keep the focus on retrieval—your agent should help surface, organize, or summarize information.
 
 **Steps:**
 
-- **Start in Copilot Studio lite**
+- **Start in Agent builder lite**
 
     1. Open your browser and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-    1. Select **Create agent** in the navigation pane to launch **Copilot Studio**.
+    1. Select **New agent** in the navigation pane to launch **Agent builder**.
 
-        ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)
+        ![Screenshot showing create an agent link.](../Demos/Media/new-agent.png)
 
 - **Define your Agent (Describe tab or Configure tab)**
 
-    1. Choose the **Describe** tab if it's available and use this sample prompt (or write your own):
+    1. In the **Describe the agent you want to create** prompt box, draft your agent’s role. For example:  
 
         ```text
         You’re a virtual assistant for our [project/team name]. Your role is to help with [key tasks]. Be concise, stay on-brand, and reference our shared resources when possible.
         ```
 
         ![Screenshot showing describe agent with sample prompt filled in.](../Prompts/Media/create-agent-through-describe.png)
-
-        > **NOTE:** You can start from scratch or base your agent on a template, which pre-populates settings and instructions you can later customize.
-
-    1. You performed the prior step if the **Describe** tab was available. If it isn’t available, then switch to the **Configure** tab and enter the same details manually: name, description, and agent instructions.
-
-        ![Screenshot showing configure agent.](../Prompts/Media/name-describe-agent.png)
 
 - **Customize your Agent**
 
@@ -119,15 +113,15 @@ Now, take your insights and create a simple mock agent in **Copilot Studio lite*
 
         ![Screenshot showing knowledge sources section in agent builder.](../Prompts/Media/knowledge-sources.png)
 
-    1. Define starter prompts to help others get started with your agent
+    1. Define suggested prompts to help others get started with your agent
 
-        ![Screenshot showing starter prompts section in agent builder.](../Prompts/Media/starter-prompts.png)
+        ![Screenshot showing suggested prompts section in agent builder.](../Prompts/Media/starter-prompts.png)
 
-        > **TIP:** Starter prompts help guide users on how to interact with your agent.
+        > **TIP:** Suggested prompts help guide users on how to interact with your agent.
 
 - **Test and Create**
 
-    1. Use the **Test** feature (available in the right pane throughout the agent-building process) to try out your draft version of your agent and refine any issues.
+    1. Use the **Preview** feature (available in the right pane throughout the agent-building process) to try out your draft version of your agent and refine any issues.
     2. Once satisfied, select **Create** to publish the agent.
     3. Share your agent with others or open it for immediate use.  
 

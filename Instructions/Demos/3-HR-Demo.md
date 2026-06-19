@@ -7,9 +7,9 @@ demo:
 
 # HR Demo
 
-**Scenario:**  
+**Scenario:**
 
-Streamline the hiring process for a team of UX Designers by creating a tailored job description, shortlisting candidates based on their resumes, and drafting a hiring strategy to align the team
+You're an HR Manager at the Graphic Design Institute, and you've just kicked off the hiring process for a new Senior Animation Designer. You'll use Copilot to generate a tailored job description from the team's responsibilities document, compare incoming resumes against the role to shortlist the strongest candidates, and brief the hiring team on next steps over email.
 
 ## Demo Setup
 
@@ -33,11 +33,11 @@ The specific files needed for this demo are:
 
 ### Copilot in Word
 
-Let’s start by asking Copilot in Word to generate a job description.
+Let's start by asking Copilot in Word to generate a job description.
 
 1. Open Word (either in your browser or desktop application).
 
-1. In the **"Describe what you'd like to write"** prompt box, type the following:
+1. In the **"Describe what you'd like to draft with Copilot"** prompt box, type the following:
 
     ```text
     I'm the HR Manager at the Graphic Design Institute. We've currently started the hiring process for a new Senior Animation Designer. Please review the attached document outlining the job responsibilities for this role and generate a detailed job description based on this information.
@@ -59,7 +59,7 @@ Next, we'll use Copilot Chat to compare resumes we've received to the job descri
 
 1. Ensure Work Mode is selected.
 
-    ![screenshot showing web mode tab.](../Prompts/Media/work-mode.png)
+    ![screenshot showing work mode tab.](../Prompts/Media/work-mode.png)
 
 1. In the prompt window, type the following:
 
@@ -84,12 +84,20 @@ Lastly, use Copilot in Outlook to draft an email to the hiring team regarding th
 
 1. Select **New Email**.
 
-1. Select **Copilot** in the ribbon. From the drop-down menu, choose **Draft with Copilot**.
+1. Select the **Copilot** icon to the right of the ribbon.
 
-1. In the **"What do you want this email to say?"** prompt window, type the following:
+1. Ensure **Edit with Copilot** is enabled.
+
+    ![Edit with Copilot toggle in Outlook.](../Demos/Media/edit-with-copilot-outlook.png)
+
+1. Enter the following prompt:
 
     ```text
     Please draft an email to the hiring team to share that Nestor Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
+
+## Key Takeaway
+
+In a single demo, you moved an entire hiring stage forward — using **Copilot in Word** to generate a tailored job description, **Copilot Chat** to compare resumes against the role and rank candidates, and **Copilot in Outlook** to brief the hiring team. Tasks that normally span days of back-and-forth collapse into a focused, end-to-end workflow.
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
