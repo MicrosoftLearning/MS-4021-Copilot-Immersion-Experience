@@ -5,13 +5,13 @@ task:
 
 ## Immersion Experience – Agents (Business Users)
 
-Discover how Microsoft 365 Copilot and Copilot Studio can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
+Discover how Microsoft 365 Copilot and Agent builder can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
 
 You'll perform three tasks:
 
 - Identify a productivity pain point  
 - Explore how AI could help with retrieval and organization  
-- Build and test a simple agent in **Copilot Studio**  
+- Build and test a simple agent with **Agent builder**  
 
 > **NOTE:** Sample prompts are provided to help you get started—feel free to personalize them to fit your situation.  
 >
@@ -57,7 +57,7 @@ Use the **Researcher Agent** to explore how Copilot or agents might help with yo
 - Try a sample prompt like this:  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Agent builder agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
     > **TIP:** Keep the focus on practical, everyday use cases—like quickly surfacing a doc or pulling updates from multiple sources.
@@ -66,15 +66,15 @@ Use the **Researcher Agent** to explore how Copilot or agents might help with yo
 
 ### Task 3: Build and Test Your Agent  
 
-Now, create a simple retrieval agent in **Copilot Studio lite** to address your challenge.  
+Now, create a simple retrieval agent in **Agent builder** to address your challenge.  
 
 **Steps:**  
 
-1. In the **Copilot Chat** menu, select **Create agent**.
+1. In the **Copilot Chat** menu, select **New agent** from the navigation pane to open agent builder.
 
-   ![Screenshot showing create an agent link.](../Prompts/Media/create-agent.png)  
+    ![Screenshot showing new agent link.](../Demos/Media/New-agent.png)
 
-1. In the **Describe** tab, draft your agent’s role. For example:  
+1. In the **Describe the agent you want to create** prompt box, draft your agent’s role. For example:  
 
    ```text
    You’re a virtual assistant that helps me with [key task]. Be concise and always reference my recent files or resources when possible.
@@ -86,7 +86,7 @@ Now, create a simple retrieval agent in **Copilot Studio lite** to address your 
 
     ![Screenshot showing knowledge sources section in agent builder.](../Prompts/Media/knowledge-sources.png)
 
-1. Test your agent using the **Test** pane and refine as needed.  
+1. Test your agent using the **Preview** pane and refine as needed.  
 1. Select **Create** to publish your agent and start using it.  
 
 > **TIP:** Even a very simple agent—like one that helps you find recent project files—can show the power of retrieval in your daily work.

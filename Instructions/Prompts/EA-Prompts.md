@@ -50,9 +50,13 @@ Using Copilot in Outlook, draft an email requesting updates or additional inform
 
 **Steps**:
 
-- In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
+1. Select **New Email**.
 
-    ![screenshot showing Copilot in Outlook.](../Prompts/Media/copilot-outlook-desktop.png)
+1. Select the **Copilot** icon to the right of the ribbon.
+
+1. Ensure **Edit with Copilot** is enabled.
+
+    ![Edit with Copilot toggle in Outlook.](../Demos/Media/edit-with-copilot-outlook.png)
 
 **Sample Prompt**:
 

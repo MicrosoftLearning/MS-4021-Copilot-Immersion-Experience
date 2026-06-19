@@ -45,7 +45,7 @@ Compare three leading suppliers for [product/service] in [select your industry].
 Using **Copilot in Word**, draft a structured plan outlining the supplier transition process, expected benefits, and key risks. Ensure the plan includes justifications for the switch, a transition timeline, and stakeholder considerations.  
 
 - Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
-- Enter your prompt where it says **"Describe what you'd like to write"**.
+- Enter your prompt where it says **"Describe what you'd like to draft with Copilot"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
@@ -54,6 +54,8 @@ Using **Copilot in Word**, draft a structured plan outlining the supplier transi
 ```text
 Based on the supplier research from [Paste in shared Word document link from Task 1], draft a Supplier Transition Plan outlining why [Company] is switching to [Supplier X]. Include key benefits, a transition timeline, and potential risks.
 ```
+
+- save the document for use in the next task. Copy the shared URL from the document (enable AutoSave and select your OneDrive account if prompted).
 
 > **NOTE:** Replace [Company] with your organization and [Supplier X] with the selected supplier. Adjust the details to fit the business need.
 
@@ -65,16 +67,22 @@ Using **Copilot in Outlook**, draft an email announcing the proposed supplier tr
 
 **Steps**:
 
-- In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
+1. Select **New Email**.
 
-    ![screenshot showing Copilot in Outlook.](../Prompts/Media/copilot-outlook-desktop.png)
+1. Select the **Copilot** icon to the right of the ribbon.
+
+1. Ensure **Edit with Copilot** is enabled.
+
+    ![Edit with Copilot toggle in Outlook.](../Demos/Media/edit-with-copilot-outlook.png)
+
+1. In the Copilot pane, Type the following prompt:
 
 **Sample Prompt**:
 
 ```text
 Write an internal email to my team announcing a potential supplier transition to [Supplier X] using the key points below:
 
-[Summarized key points from the Supplier Transition Plan]
+[Summarized key points from the Supplier Transition Plan or paste the shared link to the Word document with the full plan]
 ```
 
 > **NOTE:** Replace [Supplier X] with the chosen supplier and tailor the message for your internal audience.

@@ -41,7 +41,7 @@ Using **Copilot in Word**, draft a comprehensive strategy document for brand pos
 **Steps**:
 
 - Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
-- Enter your prompt where it says **"Describe what you'd like to write"**.
+- Enter your prompt where it says **"Describe what you'd like to draft with Copilot"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
@@ -62,13 +62,15 @@ Using **Copilot in PowerPoint**, create a campaign overview deck for your produc
 
 **Steps**:
 
-1. Open Microsoft PowerPoint from your browser [PowerPoint.new](https://PowerPoint.new) or use the desktop application.
+1. Launch Microsoft PowerPoint from your browser [PowerPoint.new](https://PowerPoint.new) or use the desktop application.
 
-1. Open a new blank presentation and select the **Copilot** icon from the ribbon.
+1. Open a new blank presentation.
 
-    ![Copilot in Ribbon](../Prompts/Media/copilot-ribbon-powerpoint.png)
+1. Select the **Copilot icon** in the bottom right hand corner of the presentation.
 
-1. In the Copilot pane, select the "Create presentation from file" prompt.
+    ![Copilot icon in PowerPoint.](../Demos/Media/Open-Copilot-in-PowerPoint.png)
+
+1. In the Copilot pane, Type the following prompt:
 
 **Sample Prompt**:  
 

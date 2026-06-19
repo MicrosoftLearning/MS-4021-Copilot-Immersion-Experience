@@ -43,16 +43,17 @@ Using **Copilot in Pages**, create talking points for an upcoming stakeholder me
 1. Under **Copilot Chat's response** from the previous task, select **Edit in Pages**:  
    ![screenshot showing Copilot in Pages.](../Prompts/Media/edit_in_pages.png)
 
-2. In the new Pages screen that opens, select **View all Pages**:  
-   ![screenshot showing Copilot in Pages.](../Prompts/Media/view-all-pages.png)
-
-3. In the new Pages window, interact with Copilot by selecting the **Copilot Icon** on the right-hand side of the document.
+1. A new Pages window will open with the content from Copilot Chat. In the prompt box on the left, copy and paste the following prompt or create your own:
 
 **Sample Prompt**:
 
 ```text
 Using these insights, draft talking points for an upcoming stakeholder meeting. Focus on progress updates, key dates, challenges and next steps. 
 ```
+
+1. Copy the page link for use in the next task. To share the page, select the **Share** button at the top right of the page, then select **Page link**.
+
+    ![screenshot showing how to copy a link to a page in Copilot in Pages.](../Prompts/Media/share-pages.png)
 
 > **Tip:**  
 > - Pages can be used as a collaborative space to work with your colleagues in real-time. Share the page by typing the "@" symbol followed by a colleague’s name.
@@ -64,14 +65,18 @@ Using **Copilot in Outlook**, draft a follow-up email based on the insights gath
 
 **Steps**:
 
-- In **Outlook**, select **New Email** and then  from the ribbon select **Copilot** > **Draft with Copilot**
+1. Select **New Email**.
 
-    ![screenshot showing Copilot in Outlook.](../Prompts/Media/copilot-outlook-desktop.png)
+1. Select the **Copilot** icon to the right of the ribbon.
+
+1. Ensure **Edit with Copilot** is enabled.
+
+    ![Edit with Copilot toggle in Outlook.](../Demos/Media/edit-with-copilot-outlook.png)
 
 **Sample Prompt**:
 
 ```text
 Using the insights below, draft a follow-up email to [Name of Person] requesting an update on progress and next steps. Also, ask for a follow-up meeting to discuss further on the project deadline. 
 
-[Paste insights from Copilot Chat here, or add your own insights]
+[Paste page link from Copilot in Pages here]
 ```

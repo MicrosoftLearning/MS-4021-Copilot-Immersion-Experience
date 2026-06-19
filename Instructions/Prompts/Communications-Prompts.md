@@ -59,7 +59,7 @@ Using **Copilot in Word**, draft a concise and engaging social media post based 
 **Steps**:
 
 - Launch Microsoft Word from your browser [word.new](https://word.new) or use the desktop application.
-- Enter your prompt where it says **"Describe what you'd like to write"**.
+- Enter your prompt where it says **"Describe what you'd like to Draft with Copilot"**.
 
     ![screenshot showing Copilot in Word.](../Prompts/Media/draft-with-copilot.png)
 
