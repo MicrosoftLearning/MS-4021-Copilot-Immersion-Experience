@@ -38,7 +38,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 1. To launch Microsoft Copilot, open a new Microsoft Edge browser tab and navigate to <a href="https://copilot.microsoft.com" target="_blank">copilot.microsoft.com</a>.
 
-1. Sign into a nonwork microsoft account.
+1. Sign into a non-work microsoft account.
 
     > **NOTE:** If you sign into your work account, you will  redirected to Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat)
 

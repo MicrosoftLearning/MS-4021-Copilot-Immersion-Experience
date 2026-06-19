@@ -41,36 +41,28 @@ OK, I’m going to keep this response."
 
 1. Below the email’s subject, select **Summary by Copilot** and point out the results.
 1. At the top of the page, select **Reply all**.
-1. At the bottom of the new email field, point out the **Draft with Copilot** section and suggested prompts.
-1. Select **Custom**.
+1. In the message body select **Help me write**
 
-    ![Screenshot showing the custom prompt option in Copilot for Outlook.](../Exec/Media/outlook_custom.png)
+    ![Screenshot showing the custom prompt option in Copilot for Outlook.](../Exec/Media/help-me-write.png)
 
-1. In the **What do you want the email to say** field, copy and paste the prompt or type:
+1. In the **Help me write an email to** field, copy and paste the prompt or type:
 
     ```text
     Approve and thank the team--be warm! They worked hard. And be a little funny if you can.
     ```
 
-1. Select the **Edit prompt** button.
+1. The Copilot pane will open and begin to draft a response.
+1. Once the draft is complete, enter the following prompt:
 
-    ![Screenshot showing the edit prompt option in Copilot for Outlook.](../Exec/Media/edit_prompt_outlook.png)
+    ```text
+    Make it sound like me.
+    ```
 
-1. Select **Sound like me**.
-1. Select **Generate**.
-1. Select the **Anything you’d like to change?** Text box.
-1. Copy and paste the prompt or type:
+1. Lastly, enter the following prompt:
 
     ```text
     Can you make a that a bit longer? It's just a little bit too short.
     ```
-
-1. Select the **Generate** button.  
-1. **Optional**: In the **Anything you’d like to change?** Text box, type **"Make it funnier"** and then select Generate.
-1. Select **Keep it**.
-
-    > **NOTE:**  Do not send the reply, as you may wish to re-use this email thread for future demos.
-
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

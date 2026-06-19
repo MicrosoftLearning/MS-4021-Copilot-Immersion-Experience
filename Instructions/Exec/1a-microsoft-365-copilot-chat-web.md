@@ -42,9 +42,11 @@ Now let’s compare national trends to your company’s sales performance. You�
    I need to know the quarterly trends for each of our sales regions. Create a quarterly revenue line graph for the past 2 years based on:
    ```
 
-2. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx).
+2. Select **Add work Content** and search for [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Charger_sales_report_2022-2024.xlsx).
 
-    ![add content copilot chat.](../Exec/Media/add-content-copilot-chat.png)
+    ![Add content Copilot chat.](../Demos/Media/add-work-content.png)
+
+    > **NOTE:** If the file is not available, you can select **Upload images and files** to upload the file directly.
 
 Copilot securely integrates with your data, providing visualizations and insights directly within your workflow.
 

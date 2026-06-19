@@ -49,18 +49,6 @@ demo:
 
     ![Screenshot showing share and notify in pages.](../Exec/Media/Pages-tags.png)
 
-1. Now, you can show where pages are accessible. there are two options:
-
-    - access from Pages app itself (automatically synced):
-
-        ![Screenshot showing pages app.](../Exec/Media/access-pages.png)
-
-    - access from within Loop, under **Recent components and ideas**:
-
-        ![Screenshot showing loop.](../Exec/Media/recent-components.png)
-
-1. Navigate back to the open Pages tab where the Page is still displayed [m365.cloud.microsoft/pages](https://m365.cloud.microsoft/pages).
-
 1. Continue working with the page by typing in the following prompt:
 
      ```text

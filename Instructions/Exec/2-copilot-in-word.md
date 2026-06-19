@@ -35,9 +35,9 @@ In this demo, we'll take the documents we created and transform them together to
 1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Microsoft Edge tab.
 1. Click into the body of the document and select the **Copilot icon** displayed.
 
-    ![Screenshot showing the draft with Copilot icon.](../Exec/Media/draft_with_copilot_icon.png)
+    ![Copilot icon in Word.](../Demos/Media/Open-Copilot-in-Word.png)
 
-1. In Word, the **Draft with Copilot** window should now be displayed. In the prompt field, enter the following prompt:
+1. In Word, the **Let's edit your document** window should now be displayed. In the prompt field, enter the following prompt:
 
     ```text
     Create a comprehensive strategic analysis report for ContosoLearn using the following files as references: /ContosoLearn App Overview, /ContosoLearn Competitor SWOT, and /ContosoLearn Value Proposition. The strategic analysis report should include the following sections:
@@ -69,18 +69,16 @@ In this demo, we'll take the documents we created and transform them together to
 ### Summarize a large document
 
 1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
-1. Within Word, on the ribbon, select the **Copilot icon**.
+1. Whith the Copilot pane open, switch from **Allow editing** to **Chat Only** mode.
 
-    ![Screenshot showing keep it in Copilot.](../Exec/Media/copilot_icon.png)
-
-1. In the **Ask me anything about this document** field, copy and paste the prompt or type:
+1. In the **message copilot** field, copy and paste the prompt or type:
 
     ```text
     Based on the document, how did AI impact Microsoft's earnings this year?
     ```
 
 1. Select **Send**.  
-1. In the **Ask me anything about this document** field, copy and paste the prompt or type:
+1. One finished, run the following prompt:
 
     ```text
     Copilot, generate a FAQ based on this document.
