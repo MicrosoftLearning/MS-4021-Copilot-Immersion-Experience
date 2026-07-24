@@ -24,7 +24,7 @@ Hyperlinks to each of the demos are listed below.
 
 ## Sample Prompts for immersion experience
 
-#### [Executives](https://learn.microsoft.com/en-us/training/modules/envision-new-ideas-with-microsoft-365-copilot/) (Redirects to Microsoft Learn)
+#### [Executives](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-immersion.html)
 
 #### [Communications](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Communications-Prompts.html)
 
