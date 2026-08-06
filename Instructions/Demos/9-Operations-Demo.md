@@ -4,8 +4,6 @@ demo:
     title: 'Operations Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Operations Demo
 
 **Scenario:**
@@ -133,5 +131,3 @@ Lastly, use Copilot in Outlook to draft an email to potential suppliers summariz
 ## Key Takeaway
 
 In one workflow, you ran the full RFP loop end to end — using **Copilot in Word** to extract requirements and selection criteria from a completed RFP, **Copilot Chat** to convert fresh project guidelines into a polished new RFP against a Contoso template, and **Copilot in Outlook** to send it to suppliers with the right tone. Work that normally spans days of reviewing, drafting, and emailing compresses into a single focused session.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

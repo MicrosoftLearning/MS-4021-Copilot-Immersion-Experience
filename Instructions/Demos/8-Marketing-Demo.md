@@ -4,8 +4,6 @@ demo:
     title: 'Marketing Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Marketing Demo
 
 **Scenario:**
@@ -135,5 +133,3 @@ Now let's switch gears and use Copilot in Excel to size the social-marketing opp
 ## Key Takeaway
 
 In one sitting, you took a campaign from blank page to data-backed plan — using **Copilot in Word** to pull product, trend, and promotion docs into a single market analysis with fresh social-campaign ideas; **Copilot Chat** to evaluate which campaign best fits the LATAM audience and spin up a culturally resonant slogan; and **Copilot in Excel** to interrogate your social-marketing data and quantify the opportunity. What used to span days of research, drafting, and analysis collapses into a focused, end-to-end workflow.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

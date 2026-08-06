@@ -4,8 +4,6 @@ demo:
     title: 'Demo: Copilot in Teams'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 ---
 
 # Microsoft 365 Copilot in Teams
@@ -117,5 +115,3 @@ Additionally, I can draft a reply and use Copilot to refine it, ensuring that my
     > **Note:**  Feel free to choose an alternative prompt example that you believe will target your audience better.
 
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

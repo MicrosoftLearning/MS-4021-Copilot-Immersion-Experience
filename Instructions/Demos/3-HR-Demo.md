@@ -4,8 +4,6 @@ demo:
     title: 'HR Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # HR Demo
 
 **Scenario:**
@@ -100,5 +98,3 @@ Lastly, use Copilot in Outlook to draft an email to the hiring team regarding th
 ## Key Takeaway
 
 In a single demo, you moved an entire hiring stage forward — using **Copilot in Word** to generate a tailored job description, **Copilot Chat** to compare resumes against the role and rank candidates, and **Copilot in Outlook** to brief the hiring team. Tasks that normally span days of back-and-forth collapse into a focused, end-to-end workflow.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

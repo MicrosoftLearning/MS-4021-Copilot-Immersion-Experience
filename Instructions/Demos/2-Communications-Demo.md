@@ -4,8 +4,6 @@ demo:
     title: 'Communications Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Communications Demo
 
 **Scenario:**
@@ -113,5 +111,3 @@ Finally, we'll send the polished post to the communications community as a newsl
 ## Key Takeaway
 
 In a single demo, you went from a blank page to a polished, on-brand awareness post and announcement email — using **Copilot Chat** to research and draft, **Edit with Copilot in Word** to refine the voice, and **Copilot in Outlook** to ship it. No real tenant data required — perfect for showing the end-to-end value of Microsoft 365 Copilot in any demo environment.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

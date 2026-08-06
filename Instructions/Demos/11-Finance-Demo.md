@@ -4,8 +4,6 @@ demo:
     title: 'Finance Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Finance Demo
 
 **Scenario:**
@@ -177,5 +175,3 @@ Use Copilot in Word to summarize financial insights into an email for our team.
 ## Key Takeaway
 
 In a single workflow, you turned raw sales data into a board-ready brief — using **Edit with Copilot in Excel** to surface top products, top customers, and the highest-consumption industries; **Copilot Chat** to benchmark those numbers against industry trends and competitor financials; and **Copilot in Word** to summarize the takeaways in a polished email to your team. Hours of pivot-table wrangling, research, and writing collapse into a focused, end-to-end analysis.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

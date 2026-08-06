@@ -4,8 +4,6 @@ demo:
     title: 'IT Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # IT Demo
 
 **Scenario:**
@@ -118,5 +116,3 @@ Finally, we'll use Copilot to generate a PowerPoint presentation based on the Ci
 ## Key Takeaway
 
 In a single demo, you turned a generic deployment request into a CipherGuard-ready rollout package — using **Copilot Chat** to build a reusable project implementation plan template, **Copilot in Word** to draft a product-specific plan grounded in the CipherGuard specification, and **Copilot in PowerPoint** to generate the executive presentation. Project work that normally takes weeks of templating and back-and-forth compresses into a focused, end-to-end workflow.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

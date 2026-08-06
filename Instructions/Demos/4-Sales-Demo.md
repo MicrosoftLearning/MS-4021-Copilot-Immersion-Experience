@@ -4,8 +4,6 @@ demo:
     title: 'Sales Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Sales Demo
 
 **Scenario:**
@@ -121,5 +119,3 @@ We'll now ask Copilot to expand on these strategies and draft proposals on how t
 ## Key Takeaway
 
 In a single demo, you turned a market signal into a sales-ready plan — using **Copilot Chat** to research EV adoption trends and visualize your own regional performance, **Edit with Copilot in Word** to expand the recommendations into a full implementation proposal, and **Copilot in PowerPoint** to generate a pitch-ready deck from that proposal. Strategy work that normally takes weeks of analysis and drafting compresses into a focused, end-to-end workflow.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

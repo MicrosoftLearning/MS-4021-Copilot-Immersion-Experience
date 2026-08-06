@@ -4,8 +4,6 @@ demo:
     title: 'Researcher and Analyst Demo'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
-
 # Researcher and Analyst Demo
 
 This demo highlights how to use **Researcher** and **Analyst**, two expert agents built into the Copilot app.  
@@ -135,6 +133,4 @@ You can run these additional prompts for variety. Each follows the same pattern:
 - **Researcher**: accelerates strategy and planning with high-quality research.  
 - **Analyst**: delivers data-driven insights with advanced analysis and visualizations.  
 
-Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.  
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
+Together, Researcher and Analyst shorten the path from **question to insight**—turning weeks of effort into minutes.
