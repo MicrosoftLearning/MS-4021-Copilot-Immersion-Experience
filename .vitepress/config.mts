@@ -58,7 +58,7 @@ const workshopPrompts = [
 export default defineConfig({
   title: "Copilot Immersion Experience",
   description:
-    "Demos, executive demos, and prompt guides for the MS-4021 Microsoft 365 Copilot Immersion Experience.",
+    "Prompts, demos, and guides for the Microsoft 365 Copilot Immersion Experience (MS-4021).",
   base,
 
   // IMPORTANT: keep this false. It preserves the existing published URLs
@@ -80,29 +80,30 @@ export default defineConfig({
 
   themeConfig: {
     logo: "/copilot-icon.svg",
+    siteTitle: "CIE",
 
     nav: [
       { text: "Home", link: "/" },
-      { text: "Demos", items: demos },
-      { text: "Exec Demos", items: execDemos },
       {
-        text: "Prompt Guides",
+        text: "Prompts",
         items: [
           { text: "By role", items: rolePrompts },
           { text: "Agents", items: agentPrompts },
           { text: "Workshops", items: workshopPrompts },
         ],
       },
+      { text: "Demos", items: demos },
+      { text: "Exec Demos", items: execDemos },
     ],
 
     search: { provider: "local" },
 
     sidebar: [
+      { text: "Prompts · By role", collapsed: false, items: rolePrompts },
+      { text: "Prompts · Agents", collapsed: true, items: agentPrompts },
+      { text: "Prompts · Workshops", collapsed: true, items: workshopPrompts },
       { text: "Demos", collapsed: false, items: demos },
       { text: "Executive Demos", collapsed: true, items: execDemos },
-      { text: "Prompt Guides · By role", collapsed: true, items: rolePrompts },
-      { text: "Prompt Guides · Agents", collapsed: true, items: agentPrompts },
-      { text: "Prompt Guides · Workshops", collapsed: true, items: workshopPrompts },
     ],
 
     outline: { level: [2, 3], label: "On this page" },

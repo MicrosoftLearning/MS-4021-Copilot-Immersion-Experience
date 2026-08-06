@@ -3,18 +3,18 @@ layout: home
 
 hero:
   name: Copilot Immersion Experience
-  text: Demos & prompt guides
-  tagline: Everything you need to run a Microsoft 365 Copilot Immersion Experience — role-based demos, executive demos, and ready-to-use prompt guides.
+  text: Prompts, demos, and guides
+  tagline: Practical, role-based ways to put Microsoft 365 Copilot to work — prompts you can try today, plus step-by-step demos of what's possible.
   image:
     src: /copilot-icon.svg
     alt: Microsoft 365 Copilot
   actions:
     - theme: brand
-      text: Browse the demos
-      link: /Instructions/Demos/1-Executives-Demo.html
+      text: Find prompts for your role
+      link: '#sample-prompts-by-role'
     - theme: alt
-      text: Prompt guides
-      link: '#sample-prompts-for-the-immersion-experience'
+      text: Explore the demos
+      link: '#demos'
     - theme: alt
       text: View on GitHub
       link: https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience
@@ -25,23 +25,96 @@ hero:
 <!-- markdownlint-disable MD033 MD041 -->
 <div class="home-section">
 
+## Sample prompts by role
+
+<p class="home-section-intro">Ready-to-use prompts grouped by the work you actually do. Start with your own role, then borrow from the others — the best ideas usually come from somewhere else in the business.</p>
+
+<div class="card-grid card-grid--compact">
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-immersion.html">
+    <span class="pill-link-icon">👔</span><span class="pill-link-title">Executives</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Communications-Prompts.html">
+    <span class="pill-link-icon">📣</span><span class="pill-link-title">Communications</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/HR-Prompts.html">
+    <span class="pill-link-icon">🧑‍🤝‍🧑</span><span class="pill-link-title">HR</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html">
+    <span class="pill-link-icon">💼</span><span class="pill-link-title">Sales</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/IT-Prompts.html">
+    <span class="pill-link-icon">🛠️</span><span class="pill-link-title">IT</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EA-Prompts.html">
+    <span class="pill-link-icon">🗓️</span><span class="pill-link-title">Executive Assistant</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Business-Manager-Prompts.html">
+    <span class="pill-link-icon">📊</span><span class="pill-link-title">Business Manager</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Marketing-Prompts.html">
+    <span class="pill-link-icon">🎯</span><span class="pill-link-title">Marketing</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Operations-Prompts.html">
+    <span class="pill-link-icon">⚙️</span><span class="pill-link-title">Operations</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Legal-Prompts.html">
+    <span class="pill-link-icon">⚖️</span><span class="pill-link-title">Legal</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Finance-Prompts.html">
+    <span class="pill-link-icon">💰</span><span class="pill-link-title">Finance</span>
+  </a>
+</div>
+
+<p class="group-title">Agents</p>
+
+<p class="home-section-intro">Go beyond prompting — build an agent that carries the context and does the work for you.</p>
+
+<div class="card-grid card-grid--compact">
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EU-Agents.html">
+    <span class="pill-link-icon">🤖</span><span class="pill-link-title">Agents · Business Users</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-Agents.html">
+    <span class="pill-link-icon">🧠</span><span class="pill-link-title">Agents · Executives</span>
+  </a>
+</div>
+
+<p class="group-title">Strategy workshops</p>
+
+<p class="home-section-intro">Longer, guided sessions for leadership teams turning AI ambition into a concrete plan.</p>
+
+<div class="card-grid card-grid--compact">
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-ai-aspiration.html">
+    <span class="pill-link-icon">🌟</span><span class="pill-link-title">Define Your AI Priorities</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-ai-plan.html">
+    <span class="pill-link-icon">🗺️</span><span class="pill-link-title">Design Your 90-day AI Plan</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/AI-to-impact-workshop.html">
+    <span class="pill-link-icon">🚀</span><span class="pill-link-title">AI to Impact Workshop</span>
+  </a>
+</div>
+
+</div>
+
+<div class="home-section">
+
 ## Demos
 
-<p class="home-section-intro">Role-based, end-to-end demos you can deliver in any Copilot-enabled demo tenant. Each one includes the scenario, setup steps, and the exact prompts to use.</p>
+<p class="home-section-intro">End-to-end walkthroughs showing how Copilot connects the everyday tools — Chat, Word, Excel, Outlook, and Teams — into a single piece of work. Each one sets the scene, lists what you'll need, and gives you the exact prompts.</p>
 
 <div class="card-grid">
   <a class="demo-card" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/1-Executives-Demo.html">
     <span class="demo-card-meta"><span class="demo-card-badge">Demo 01</span></span>
     <span class="demo-card-emoji">👔</span>
     <span class="demo-card-title">Executives</span>
-    <span class="demo-card-desc">Show leaders how Copilot pulls their world together across chat, Word, Outlook, and Teams.</span>
+    <span class="demo-card-desc">See how Copilot pulls a leader's world together across chat, Word, Outlook, and Teams.</span>
     <span class="demo-card-cta">Open demo →</span>
   </a>
   <a class="demo-card" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/2-Communications-Demo.html">
     <span class="demo-card-meta"><span class="demo-card-badge">Demo 02</span></span>
     <span class="demo-card-emoji">📣</span>
     <span class="demo-card-title">Communications</span>
-    <span class="demo-card-desc">Research, draft, rewrite in your voice, and ship an internal awareness post as a newsletter email.</span>
+    <span class="demo-card-desc">Research, draft, rewrite in your own voice, and ship an internal awareness post as a newsletter email.</span>
     <span class="demo-card-cta">Open demo →</span>
   </a>
   <a class="demo-card" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/3-HR-Demo.html">
@@ -123,13 +196,20 @@ hero:
   </a>
 </div>
 
+<div class="callout-bubble">
+<span class="callout-bubble-icon">📦</span>
+
+**Sample files used in the demos** live in the [ResourceFiles folder](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles) of this repository. Download them ahead of time — allow up to 10 minutes for a file to sync to OneDrive before you use it.
+
+</div>
+
 </div>
 
 <div class="home-section">
 
 ## Executive demos
 
-<p class="home-section-intro">Shorter, app-by-app walkthroughs designed for executive audiences.</p>
+<p class="home-section-intro">Short, single-app walkthroughs. Useful when you want to show one capability quickly rather than a full end-to-end scenario.</p>
 
 <div class="card-grid card-grid--compact">
   <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Exec/1-business-chat-and-pages.html">
@@ -168,84 +248,6 @@ hero:
     <span class="pill-link-icon">🗄️</span>
     <span class="pill-link-title">Microsoft Copilot (web) · retired</span>
   </a>
-</div>
-
-</div>
-
-<div class="home-section">
-
-## Sample prompts for the immersion experience
-
-<p class="home-section-intro">Hand these to participants during the session. Each guide is a self-contained set of prompts for a role, an agent scenario, or a workshop.</p>
-
-<p class="group-title">By role</p>
-
-<div class="card-grid card-grid--compact">
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-immersion.html">
-    <span class="pill-link-icon">👔</span><span class="pill-link-title">Executives</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Communications-Prompts.html">
-    <span class="pill-link-icon">📣</span><span class="pill-link-title">Communications</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/HR-Prompts.html">
-    <span class="pill-link-icon">🧑‍🤝‍🧑</span><span class="pill-link-title">HR</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Sales-Prompts.html">
-    <span class="pill-link-icon">💼</span><span class="pill-link-title">Sales</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/IT-Prompts.html">
-    <span class="pill-link-icon">🛠️</span><span class="pill-link-title">IT</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EA-Prompts.html">
-    <span class="pill-link-icon">🗓️</span><span class="pill-link-title">Executive Assistant</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Business-Manager-Prompts.html">
-    <span class="pill-link-icon">📊</span><span class="pill-link-title">Business Manager</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Marketing-Prompts.html">
-    <span class="pill-link-icon">🎯</span><span class="pill-link-title">Marketing</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Operations-Prompts.html">
-    <span class="pill-link-icon">⚙️</span><span class="pill-link-title">Operations</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Legal-Prompts.html">
-    <span class="pill-link-icon">⚖️</span><span class="pill-link-title">Legal</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Finance-Prompts.html">
-    <span class="pill-link-icon">💰</span><span class="pill-link-title">Finance</span>
-  </a>
-</div>
-
-<p class="group-title">Agents</p>
-
-<div class="card-grid card-grid--compact">
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EU-Agents.html">
-    <span class="pill-link-icon">🤖</span><span class="pill-link-title">Agents · Business Users</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-Agents.html">
-    <span class="pill-link-icon">🧠</span><span class="pill-link-title">Agents · Executives</span>
-  </a>
-</div>
-
-<p class="group-title">Workshops</p>
-
-<div class="card-grid card-grid--compact">
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-ai-aspiration.html">
-    <span class="pill-link-icon">🌟</span><span class="pill-link-title">Define Your AI Priorities</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-ai-plan.html">
-    <span class="pill-link-icon">🗺️</span><span class="pill-link-title">Design Your 90-day AI Plan</span>
-  </a>
-  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/AI-to-impact-workshop.html">
-    <span class="pill-link-icon">🚀</span><span class="pill-link-title">AI to Impact Workshop</span>
-  </a>
-</div>
-
-<div class="callout-bubble">
-<span class="callout-bubble-icon">📦</span>
-
-**Demo resource files** live in the [ResourceFiles folder](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/tree/master/ResourceFiles) of this repository. Download them ahead of time — allow up to 10 minutes for files to sync to OneDrive before a demo.
-
 </div>
 
 </div>
