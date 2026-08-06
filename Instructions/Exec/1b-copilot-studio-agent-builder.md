@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Build an Agent with Agent Builder'
 demo:
     title: 'Demo: Build an Agent with Agent Builder'
 ---

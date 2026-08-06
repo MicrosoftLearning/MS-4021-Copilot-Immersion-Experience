@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 demo:
     title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---

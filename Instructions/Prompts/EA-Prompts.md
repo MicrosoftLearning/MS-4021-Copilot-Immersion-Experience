@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience - EA'
 task:
     title: 'Immersion Experience - EA'
 ---

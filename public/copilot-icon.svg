@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Microsoft 365 Copilot">
+  <defs>
+    <linearGradient id="a" x1="14" y1="18" x2="112" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2aa5ec"/>
+      <stop offset="0.5" stop-color="#0f6cbd"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="b" x1="30" y1="30" x2="98" y2="98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="url(#a)"/>
+  <path d="M64 26c3 13.5 11.5 22 25 25-13.5 3-22 11.5-25 25-3-13.5-11.5-22-25-25 13.5-3 22-11.5 25-25z" fill="url(#b)"/>
+  <path d="M38 76c1.6 7.2 6.1 11.7 13.3 13.3C44.1 90.9 39.6 95.4 38 102.6c-1.6-7.2-6.1-11.7-13.3-13.3C31.9 87.7 36.4 83.2 38 76z" fill="#ffffff" fill-opacity="0.8"/>
+</svg>

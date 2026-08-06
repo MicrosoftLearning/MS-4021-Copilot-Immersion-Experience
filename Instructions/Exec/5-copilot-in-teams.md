@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Copilot in Teams'
 demo:
     title: 'Demo: Copilot in Teams'
 ---

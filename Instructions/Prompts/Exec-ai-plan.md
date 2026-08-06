@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience - Design Your 90-day AI plan'
 task:
   title: Immersion Experience - Design Your 90-day AI plan
 ---

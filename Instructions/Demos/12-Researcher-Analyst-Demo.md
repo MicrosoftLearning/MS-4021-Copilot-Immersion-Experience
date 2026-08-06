@@ -1,4 +1,5 @@
 ---
+title: 'Researcher and Analyst Demo'
 demo:
     title: 'Researcher and Analyst Demo'
 ---

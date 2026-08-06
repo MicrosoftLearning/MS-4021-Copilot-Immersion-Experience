@@ -1,3 +1,8 @@
+# Node / VitePress
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
+
 # Editable markdown sources for generated .docx resource files —
 # kept locally for regeneration, not exposed in the public repo.
 ResourceFiles/.sources/

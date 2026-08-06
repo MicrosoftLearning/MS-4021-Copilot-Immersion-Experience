@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience - Business Manager'
 task:
     title: 'Immersion Experience - Business Manager'
 ---

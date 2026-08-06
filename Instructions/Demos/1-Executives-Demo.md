@@ -1,4 +1,5 @@
 ---
+title: 'Executives Demo'
 demo:
     title: 'Executives Demo'
 ---

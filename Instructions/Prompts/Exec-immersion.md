@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience – Idea to Agent'
 task:
     title: 'Immersion Experience – Idea to Agent'
 ---

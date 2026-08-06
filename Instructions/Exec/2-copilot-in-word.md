@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Copilot in Word'
 demo:
     title: 'Demo: Copilot in Word'
 ---

@@ -1,4 +1,5 @@
 ---
+title: 'Marketing Demo'
 demo:
     title: 'Marketing Demo'
 ---

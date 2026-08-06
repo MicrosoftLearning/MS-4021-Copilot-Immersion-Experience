@@ -1,4 +1,5 @@
 ---
+title: 'Business Manager Demo'
 demo:
     title: 'Business Manager Demo'
 ---

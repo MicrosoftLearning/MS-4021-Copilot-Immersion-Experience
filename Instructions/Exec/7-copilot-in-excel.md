@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Copilot in Excel'
 demo:
     title: 'Demo: Copilot in Excel'
 ---

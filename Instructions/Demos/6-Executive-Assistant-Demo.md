@@ -1,4 +1,5 @@
 ---
+title: 'Executive Assistant Demo'
 demo:
     title: 'Executive Assistant Demo'
 ---

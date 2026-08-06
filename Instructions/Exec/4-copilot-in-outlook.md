@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Copilot in Outlook'
 demo:
     title: 'Demo: Copilot in Outlook'
 ---

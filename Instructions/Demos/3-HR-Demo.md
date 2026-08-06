@@ -1,4 +1,5 @@
 ---
+title: 'HR Demo'
 demo:
     title: 'HR Demo'
 ---

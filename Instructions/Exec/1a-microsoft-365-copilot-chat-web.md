@@ -1,4 +1,5 @@
 ---
+title: 'Demo: Microsoft 365 Copilot Chat (Web only)'
 demo:
     title: 'Demo: Microsoft 365 Copilot Chat (Web only)'
 ---
