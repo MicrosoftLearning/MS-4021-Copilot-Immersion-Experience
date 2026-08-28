@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Copilot in Word'
 demo:
     title: 'Demo: Copilot in Word'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -87,5 +86,3 @@ In this demo, we'll take the documents we created and transform them together to
 1. Select **Send**.
 
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

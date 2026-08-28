@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 demo:
     title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -134,5 +133,3 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 1. Select the **Submit** button.
 
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

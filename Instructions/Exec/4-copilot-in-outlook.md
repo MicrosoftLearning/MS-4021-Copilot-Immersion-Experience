@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Copilot in Outlook'
 demo:
     title: 'Demo: Copilot in Outlook'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -64,5 +63,3 @@ OK, I’m going to keep this response."
     Can you make a that a bit longer? It's just a little bit too short.
     ```
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

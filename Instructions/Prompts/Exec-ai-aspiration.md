@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience - Define Your AI Priorities'
 task:
   title: Immersion Experience - Define Your AI Priorities
 ---

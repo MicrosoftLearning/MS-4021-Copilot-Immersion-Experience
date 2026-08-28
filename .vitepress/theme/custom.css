@@ -1,0 +1,238 @@
+/* ------------------------------------------------------------------
+   MS-4021 Copilot Immersion Experience — VitePress theme overrides
+   Adapted from SKL233-AI-Skill-Building-How-to-Use-Cowork
+   ------------------------------------------------------------------ */
+
+/* Brand colours (Microsoft 365 Copilot palette) */
+:root {
+  --vp-c-brand-1: #0f6cbd;
+  --vp-c-brand-2: #115ea3;
+  --vp-c-brand-3: #0c3b5e;
+  --vp-c-brand-soft: rgba(15, 108, 189, 0.14);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #0f6cbd 30%,
+    #8b5cf6
+  );
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #0f6cbd 50%,
+    #8b5cf6 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+.dark {
+  --vp-c-brand-1: #62abe8;
+  --vp-c-brand-2: #479ef5;
+  --vp-c-brand-3: #0f6cbd;
+  --vp-c-brand-soft: rgba(98, 171, 232, 0.16);
+}
+
+/* Show/hide images based on the active colour scheme.
+   Usage: ![alt](./Media/foo-dark.png){.dark-only} */
+html.dark .light-only {
+  display: none !important;
+}
+
+html:not(.dark) .dark-only {
+  display: none !important;
+}
+
+/* Screenshots in the demo/prompt pages */
+.vp-doc img {
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-divider);
+  max-width: 100%;
+}
+
+/* Footer: left-align, and hide on content pages (which have a sidebar) */
+.VPFooter .container {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 32px 24px;
+  text-align: left;
+}
+
+.VPFooter.has-sidebar {
+  display: none !important;
+}
+
+/* Home hero icon */
+.VPHero .image-src {
+  max-width: 180px;
+  max-height: 180px;
+}
+
+/* Home page sections (rendered inside the home layout) */
+.home-section {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.home-section h2 {
+  border-top: none;
+  margin-top: 2.5rem;
+  padding-top: 0;
+}
+
+.home-section-intro {
+  color: var(--vp-c-text-2);
+  margin-top: 0.25rem;
+  max-width: 65ch;
+}
+
+/* Callout bubble (e.g. facilitator instructions) without note/tip chrome */
+.callout-bubble {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  margin: 1.75rem 0;
+  padding: 1.1rem 1.4rem;
+  border-radius: 14px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+}
+
+.callout-bubble .callout-bubble-icon {
+  font-size: 1.4rem;
+  line-height: 1.4;
+}
+
+.callout-bubble p {
+  margin: 0;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+
+.callout-bubble p strong {
+  color: var(--vp-c-text-1);
+}
+
+/* Card grid used on the home page */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.card-grid--compact {
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.85rem;
+}
+
+.demo-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 16px;
+  background: var(--vp-c-bg-soft);
+  text-decoration: none !important;
+  color: inherit;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+a.demo-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+.demo-card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.demo-card-badge {
+  align-self: flex-start;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+}
+
+.demo-card-emoji {
+  font-size: 1.7rem;
+  line-height: 1;
+}
+
+.demo-card-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.demo-card-desc {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+  flex: 1;
+}
+
+.demo-card-cta {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+}
+
+/* Compact "pill" links used for the prompt guides */
+.pill-link {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  text-decoration: none !important;
+  color: inherit;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.pill-link:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transform: translateY(-1px);
+}
+
+.pill-link:hover .pill-link-title {
+  color: var(--vp-c-brand-1);
+}
+
+.pill-link-icon {
+  flex: none;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.pill-link-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+/* Group heading above a card/pill grid */
+.group-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin: 1.75rem 0 0.35rem;
+}
+
+@media (max-width: 640px) {
+  .home-section {
+    padding: 0 16px;
+  }
+}

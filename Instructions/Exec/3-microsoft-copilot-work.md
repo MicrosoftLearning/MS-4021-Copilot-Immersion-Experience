@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Microsoft 365 Copilot Chat (Work Tab)'
 demo:
     title: 'Demo: Microsoft 365 Copilot Chat (Work Tab)'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -79,5 +78,3 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
     Then select **Submit**.
 
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

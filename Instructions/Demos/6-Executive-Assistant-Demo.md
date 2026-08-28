@@ -1,9 +1,8 @@
 ---
+title: 'Executive Assistant Demo'
 demo:
     title: 'Executive Assistant Demo'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 # Executive Assistant Demo
 
@@ -138,5 +137,3 @@ In this demo, we'll use Copilot in Outlook to set up a meeting with the executiv
 ## Key Takeaway
 
 In a single demo, you turned a sprawling earnings call into a leadership-ready briefing — using **Copilot in Word** to extract the key points and a deep analysis straight from the transcript, **Copilot Chat** to shape it into a concise executive summary with talking points, and **Copilot in Outlook** to schedule the follow-up sync with a ready-to-send agenda. Prep work that normally takes a full morning compresses into a focused, end-to-end workflow.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

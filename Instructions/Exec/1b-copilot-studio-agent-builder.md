@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Build an Agent with Agent Builder'
 demo:
     title: 'Demo: Build an Agent with Agent Builder'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -117,6 +116,3 @@ In this demo, we’ll create a virtual assistant for the ReleCloud drone deliver
 1. Copy the share link and paste it into a Teams chat for easy access.
 
 Once live, you can interact with the agent in Teams chat or via @mentions.
-
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

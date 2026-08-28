@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Microsoft 365 Copilot Chat (Web only)'
 demo:
     title: 'Demo: Microsoft 365 Copilot Chat (Web only)'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
 ---
 
@@ -63,5 +62,3 @@ Let’s take it a step further by asking Copilot for recommendations:
 Copilot enables iterative analysis, allowing you to refine strategies and prioritize actions for underperforming areas.
 
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

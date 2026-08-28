@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience - Legal'
 task:
     title: 'Immersion Experience - Legal'
 ---

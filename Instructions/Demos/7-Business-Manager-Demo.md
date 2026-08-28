@@ -1,9 +1,8 @@
 ---
+title: 'Business Manager Demo'
 demo:
     title: 'Business Manager Demo'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 # Business Manager Demo
 
@@ -154,5 +153,3 @@ In this demo, we'll use Copilot in Outlook to set up a meeting with the project 
 ## Key Takeaway
 
 In one workflow, you moved from raw numbers to a planned working session — using **Edit with Copilot in Excel** to calculate revenue, flag underperforming products, and surface the top customer concerns hiding in thousands of reviews; **Copilot Chat** to research the root cause, scout competitor moves, and shape sharp strategic questions; and **Copilot in Outlook** to lock in a meeting with the product lead and a ready-to-send agenda. What used to be a multi-day investigation becomes a focused, decision-ready brief.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

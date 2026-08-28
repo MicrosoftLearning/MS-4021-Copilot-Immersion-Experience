@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Copilot in Excel'
 demo:
     title: 'Demo: Copilot in Excel'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -81,5 +80,3 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
 With the help of Copilot, you've analyzed complex data sets and gained insights on product performance and customer feedback. These insights can be used to inform your next business review.
 
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

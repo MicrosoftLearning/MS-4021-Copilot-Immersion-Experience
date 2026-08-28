@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience - Finances'
 task:
     title: 'Immersion Experience - Finances'
 ---

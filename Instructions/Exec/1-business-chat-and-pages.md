@@ -1,9 +1,8 @@
 ---
+title: 'Demo: Microsoft 365 Copilot Chat & Pages'
 demo:
     title: 'Demo: Microsoft 365 Copilot Chat & Pages'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
@@ -66,5 +65,3 @@ demo:
 1. Once your colleague has access, they're free to continue working on the page through Outlook, pages, or loop.
 
 1---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

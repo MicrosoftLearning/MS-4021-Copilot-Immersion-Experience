@@ -1,4 +1,5 @@
 ---
+title: 'Immersion Experience -- Define Your AI Aspiration & 90-Day Plan'
 task:
   title: Immersion Experience -- Define Your AI Aspiration & 90-Day Plan
 ---

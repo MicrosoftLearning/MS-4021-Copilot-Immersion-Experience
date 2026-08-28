@@ -1,9 +1,8 @@
 ---
+title: 'Legal Demo'
 demo:
     title: 'Legal Demo'
 ---
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 # Legal Demo
 
@@ -120,5 +119,3 @@ Lastly, we'll draft an email to Contoso's leadership summarizing our findings an
 ## Key Takeaway
 
 In one workflow, you turned a fast-moving regulatory question into a leadership-ready decision packet — using **Copilot Chat** to research the EU AI Act and pressure-test how it applies to Contoso's hiring tool, **Copilot in Word** to draft a polished executive summary of the risks and recommendations, and **Copilot in Outlook** to brief leadership and request next steps. Days of legal research, drafting, and stakeholder communication collapse into a single focused session.
-
-[Back to Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
