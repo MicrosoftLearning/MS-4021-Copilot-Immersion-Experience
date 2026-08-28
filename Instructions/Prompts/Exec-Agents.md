@@ -94,7 +94,7 @@ Now, take your insights and create a simple mock agent in **Agent builder lite**
     1. Open your browser and navigate to [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
     1. Select **New agent** in the navigation pane to launch **Agent builder**.
 
-        ![Screenshot showing create an agent link.](../Demos/Media/new-agent.png)
+        ![Screenshot showing create an agent link.](../Demos/Media/New-agent.png)
 
 - **Define your Agent (Describe tab or Configure tab)**
 

@@ -75,7 +75,7 @@ Researcher will:
 
 1. Open **Analyst** from the navigation pane.
 
-    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/analyst.png)  
+    ![Screenshot showing Analyst selected in M365 Copilot menu.](../Prompts/Media/Analyst.png)  
 
 1. Enter the following prompt:
 
