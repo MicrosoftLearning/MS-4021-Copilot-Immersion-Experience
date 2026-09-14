@@ -78,6 +78,19 @@ hero:
   </a>
 </div>
 
+<p class="group-title">Cowork</p>
+
+<p class="home-section-intro">Delegate real work to Copilot Cowork: it gathers the context, does the work, and returns a draft ready for you to review.</p>
+
+<div class="card-grid card-grid--compact">
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/EU-Cowork.html">
+    <span class="pill-link-icon">🤝</span><span class="pill-link-title">Cowork · Business Users</span>
+  </a>
+  <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Exec-Cowork.html">
+    <span class="pill-link-icon">🤝</span><span class="pill-link-title">Cowork · Executives</span>
+  </a>
+</div>
+
 <p class="group-title">Strategy workshops</p>
 
 <p class="home-section-intro">Longer, guided sessions for leadership teams turning AI ambition into a concrete plan.</p>
