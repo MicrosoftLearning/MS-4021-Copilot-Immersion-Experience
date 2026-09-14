@@ -49,6 +49,10 @@ const agentPrompts = [
   { text: "Agents · Executives", link: "/Instructions/Prompts/Exec-Agents" },
 ];
 
+const coworkPrompts = [
+  { text: "Cowork · Business Users", link: "/Instructions/Prompts/Cowork" },
+];
+
 const workshopPrompts = [
   { text: "Define Your AI Priorities", link: "/Instructions/Prompts/Exec-ai-aspiration" },
   { text: "Design Your 90-day AI Plan", link: "/Instructions/Prompts/Exec-ai-plan" },
@@ -89,6 +93,7 @@ export default defineConfig({
         items: [
           { text: "By role", items: rolePrompts },
           { text: "Agents", items: agentPrompts },
+          { text: "Cowork", items: coworkPrompts },
           { text: "Workshops", items: workshopPrompts },
         ],
       },
@@ -97,14 +102,6 @@ export default defineConfig({
     ],
 
     search: { provider: "local" },
-
-    sidebar: [
-      { text: "Prompts · By role", collapsed: false, items: rolePrompts },
-      { text: "Prompts · Agents", collapsed: true, items: agentPrompts },
-      { text: "Prompts · Workshops", collapsed: true, items: workshopPrompts },
-      { text: "Demos", collapsed: false, items: demos },
-      { text: "Executive Demos", collapsed: true, items: execDemos },
-    ],
 
     outline: { level: [2, 3], label: "On this page" },
 

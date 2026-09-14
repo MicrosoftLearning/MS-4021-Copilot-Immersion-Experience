@@ -85,6 +85,7 @@ hero:
 <div class="card-grid card-grid--compact">
   <a class="pill-link" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Prompts/Cowork.html">
     <span class="pill-link-icon">🤝</span><span class="pill-link-title">Cowork · Business Users</span>
+  </a>
 </div>
 
 <p class="group-title">Strategy workshops</p>
