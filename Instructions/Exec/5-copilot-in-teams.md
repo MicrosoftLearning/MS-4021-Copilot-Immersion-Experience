@@ -6,7 +6,7 @@ demo:
 
 ---
 
-# Microsoft 365 Copilot in Teams
+# Microsoft Copilot in Teams
 
 ## Demo Setup
 

@@ -10,7 +10,7 @@ Optimize daily tasks by reviewing communications, sending an email, and preparin
 
 You'll perform three tasks:  
 
-- Review communications using **Microsoft 365 Copilot Chat**.  
+- Review communications using **Microsoft Copilot Chat**.  
 - Prepare meeting talking points using **Copilot in Pages**.
 - Draft a follow-up email using **Copilot in Outlook**.  
 
@@ -18,7 +18,7 @@ You'll perform three tasks:
 
 ### Task 1: Review communications  
 
-Using **Microsoft 365 Copilot Chat**, gather insights from recent interactions with a specific person about a particular topic or project. Focus on identifying key points, action items, and any outstanding questions. This ensures you stay up-to-date on team projects and can keep stakeholders informed of progress, challenges, and outcomes.  
+Using **Microsoft Copilot Chat**, gather insights from recent interactions with a specific person about a particular topic or project. Focus on identifying key points, action items, and any outstanding questions. This ensures you stay up-to-date on team projects and can keep stakeholders informed of progress, challenges, and outcomes.  
 
 **Steps**:
 
@@ -37,7 +37,7 @@ Summarize my recent interactions with [/Name of Person] regarding [specific topi
 
 ### Task 2: Prepare for a meeting  
 
-Using **Copilot in Pages**, create talking points for an upcoming stakeholder meeting based on the insights gathered in Microsoft 365 Copilot Chat. Focus on progress updates, key dates, challenges or risks, and actionable next steps to ensure a productive discussion.
+Using **Copilot in Pages**, create talking points for an upcoming stakeholder meeting based on the insights gathered in Microsoft Copilot Chat. Focus on progress updates, key dates, challenges or risks, and actionable next steps to ensure a productive discussion.
 
 **Steps**:
 
@@ -62,7 +62,7 @@ Using these insights, draft talking points for an upcoming stakeholder meeting. 
 
 ### Task 3: Send a follow-up email  
 
-Using **Copilot in Outlook**, draft a follow-up email based on the insights gathered in Microsoft 365 Copilot Chat. Include details such as progress updates, pending actions, next steps, and a request for a follow-up meeting to discuss further.
+Using **Copilot in Outlook**, draft a follow-up email based on the insights gathered in Microsoft Copilot Chat. Include details such as progress updates, pending actions, next steps, and a request for a follow-up meeting to discuss further.
 
 **Steps**:
 

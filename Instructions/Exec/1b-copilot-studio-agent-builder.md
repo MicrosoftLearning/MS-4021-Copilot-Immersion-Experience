@@ -8,7 +8,7 @@ demo:
 
 # Build and Publish an Agent using Agent builder
 
-This demo walks through how to build a virtual assistant using Agent builder via Copilot Chat and publish it to Microsoft 365 Copilot.
+This demo walks through how to build a virtual assistant using Agent builder via Copilot Chat and publish it to Microsoft Copilot.
 
 ## Demo Setup
 

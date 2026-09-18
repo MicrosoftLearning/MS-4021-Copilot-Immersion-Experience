@@ -10,7 +10,7 @@ Draft a supplier transition plan by assessing potential vendors and outlining th
 
 You'll perform three tasks:  
 
-- Research supplier options using **Microsoft 365 Copilot Chat**.  
+- Research supplier options using **Microsoft Copilot Chat**.  
 - Develop a supplier transition plan using **Copilot in Word**.  
 - Communicate the supplier change using **Copilot in Outlook**.  
 
@@ -18,7 +18,7 @@ You'll perform three tasks:
 
 ### Task 1: Research supplier options  
 
-Using **Microsoft 365 Copilot Chat**, research and compare potential suppliers for a specific product or service. Identify key decision factors such as cost, reliability, service level agreements (SLAs), and scalability.  
+Using **Microsoft Copilot Chat**, research and compare potential suppliers for a specific product or service. Identify key decision factors such as cost, reliability, service level agreements (SLAs), and scalability.  
 
 **Steps**:
 

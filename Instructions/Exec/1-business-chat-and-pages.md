@@ -1,16 +1,16 @@
 ---
-title: 'Demo: Microsoft 365 Copilot Chat & Pages'
+title: 'Demo: Microsoft Copilot Chat & Pages'
 demo:
-    title: 'Demo: Microsoft 365 Copilot Chat & Pages'
+    title: 'Demo: Microsoft Copilot Chat & Pages'
 ---
 
 ---
 
-# Microsoft 365 Copilot Chat (Mobile & PC)
+# Microsoft Copilot Chat (Mobile & PC)
 
-## Microsoft 365 Copilot App (mobile)
+## Microsoft Copilot App (mobile)
 
-1. Launch the Microsoft 365 Copilot app on your Mobile device.
+1. Launch the Microsoft Copilot app on your Mobile device.
 
 1. Ensure **Work Tab** is selected.
 
@@ -26,7 +26,7 @@ demo:
    summarize the info you have on <Customer XYZ> in my calendar for this week
    ```
 
-## Microsoft 365 Copilot Chat
+## Microsoft Copilot Chat
 
 1. Launch Copilot Chat by navigating to [m365copilot.com](https://m365copilot.com).
 

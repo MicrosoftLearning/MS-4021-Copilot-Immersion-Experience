@@ -18,7 +18,7 @@ You'll perform three tasks:
 
 ### Task 1: Gather customer insights  
 
-Using **Microsoft 365 Copilot Chat**, conduct market research to collect customer insights for your product launch. Focus on identifying customer needs, key pain points, and competitor strengths and weaknesses. Consider emerging market trends that could impact your positioning strategy.
+Using **Microsoft Copilot Chat**, conduct market research to collect customer insights for your product launch. Focus on identifying customer needs, key pain points, and competitor strengths and weaknesses. Consider emerging market trends that could impact your positioning strategy.
 
 **Steps**:
 

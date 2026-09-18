@@ -1,6 +1,6 @@
 # MS-4021 Copilot Immersion Experience
 
-This repo contains the demos, executive demos, and prompt guides used to deliver the Microsoft 365 Copilot Immersion Experience.
+This repo contains the demos, executive demos, and prompt guides used to deliver the Microsoft Copilot Immersion Experience.
 
 **Published site:** <https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/>
 

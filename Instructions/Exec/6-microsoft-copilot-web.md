@@ -7,7 +7,7 @@ demo:
 ---
 
 # Microsoft Copilot (copilot.microsoft.com) **RETIRED**
-> **NOTE:** This demo has been replaced with the [Microsoft 365 Copilot Chat (web) demo](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/1a-microsoft-365-copilot-chat-web.html).
+> **NOTE:** This demo has been replaced with the [Microsoft Copilot Chat (web) demo](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/1a-microsoft-365-copilot-chat-web.html).
 
 ## Copilot and Large Language Models
 
@@ -39,7 +39,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 1. Sign into a non-work microsoft account.
 
-    > **NOTE:** If you sign into your work account, you will  redirected to Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat)
+    > **NOTE:** If you sign into your work account, you will  redirected to Microsoft Copilot Chat (m365.cloud.microsoft/chat)
 
 1. In the **Message Copilot** text box, copy and paste the prompt from the prompt library documents or type:
 

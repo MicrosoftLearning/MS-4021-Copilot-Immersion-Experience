@@ -6,7 +6,7 @@ demo:
 
 ---
 
-# Microsoft 365 Copilot in Word
+# Microsoft Copilot in Word
 
 ## Demo Setup
 

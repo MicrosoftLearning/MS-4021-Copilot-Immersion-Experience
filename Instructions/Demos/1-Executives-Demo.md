@@ -10,7 +10,7 @@ Pick three executive demonstrations under the **Exec Demos** section on the [Ind
 
 The default demonstrations for this experience are:
 
-- Microsoft 365 Copilot Chat (Work tab)
+- Microsoft Copilot Chat (Work tab)
 - Copilot in Word
 - Copilot in PowerPoint
 

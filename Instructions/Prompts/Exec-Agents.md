@@ -6,7 +6,7 @@ task:
 
 ## Immersion Experience – Agents (Executives)
 
-Explore how Microsoft 365 Copilot and Agent builder can help you address a real work-related challenge by designing a simple **retrieval-based agent**. This exercise will walk you through identifying an issue, breaking it down, exploring where AI might help, and then creating a conceptual agent to solve it.  
+Explore how Microsoft Copilot and Agent builder can help you address a real work-related challenge by designing a simple **retrieval-based agent**. This exercise will walk you through identifying an issue, breaking it down, exploring where AI might help, and then creating a conceptual agent to solve it.  
 
 You'll perform four tasks:
 

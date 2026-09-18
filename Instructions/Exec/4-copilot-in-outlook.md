@@ -6,7 +6,7 @@ demo:
 
 ---
 
-# Microsoft 365 Copilot in Outlook
+# Microsoft Copilot in Outlook
 
 ## Demo Setup
 

@@ -6,7 +6,7 @@ task:
 
 ## Immersion Experience – Idea to Agent
 
-Experience how Microsoft 365 Copilot carries a single idea across apps—from a spark of
+Experience how Microsoft Copilot carries a single idea across apps—from a spark of
 inspiration to a working agent. You'll brainstorm a company or product concept, shape it into
 a document, turn that into a pitch deck, and finish by building a custom agent grounded in
 your own work.

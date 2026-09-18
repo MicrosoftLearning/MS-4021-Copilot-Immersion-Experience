@@ -10,7 +10,7 @@ Gather insights from recent customer interactions, align on key action items, an
 
 You'll perform three tasks:
 
-- Gather insights using **Microsoft 365 Copilot Chat**
+- Gather insights using **Microsoft Copilot Chat**
 - Align on action items using **Copilot in Outlook**
 - Prepare for a customer meeting using **Copilot in Word**
 
@@ -18,7 +18,7 @@ You'll perform three tasks:
 
 ### Task 1: Gather Insights
 
-Using **Microsoft 365 Copilot Chat** (In teams), Gather and review insights from recent interactions with a customer on project implementation. These insights will help you understand customer concerns, progress, and any new opportunities to address during future engagements.
+Using **Microsoft Copilot Chat** (In teams), Gather and review insights from recent interactions with a customer on project implementation. These insights will help you understand customer concerns, progress, and any new opportunities to address during future engagements.
 
 **Steps**:
 

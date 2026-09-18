@@ -24,7 +24,7 @@ Using **Copilot Cowork**, rebuild what you accomplished this week from your own 
 
 **Steps**:
 
-1. Open a new browser tab and navigate to [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/).
+1. Open a new browser tab and navigate to [Microsoft Copilot](https://m365.cloud.microsoft/chat/).
 
 1. Select **Cowork**, then start a **New task**.
 
@@ -111,7 +111,7 @@ A **skill** is a small set of saved instructions Cowork loads automatically when
 
 **Steps**:
 
-1. Open [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat/) and select **Cowork**.
+1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/) and select **Cowork**.
 
 1. In the navigation pane, select **Customize**, open the **Skills** tab, and select **Add**.
 

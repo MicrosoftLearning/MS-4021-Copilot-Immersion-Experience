@@ -1,12 +1,12 @@
 ---
-title: 'Demo: Microsoft 365 Copilot Chat (Work Tab)'
+title: 'Demo: Microsoft Copilot Chat (Work Tab)'
 demo:
-    title: 'Demo: Microsoft 365 Copilot Chat (Work Tab)'
+    title: 'Demo: Microsoft Copilot Chat (Work Tab)'
 ---
 
 ---
 
-# Microsoft 365 Copilot Chat (Work Tab)
+# Microsoft Copilot Chat (Work Tab)
 
 ## Demo Setup
 
@@ -16,7 +16,7 @@ In the prompts below, you'll reference a person who you don't share confidential
 
 ## Talking Points
 
-"Within Microsoft 365 Copilot Chat running within the work scope, Copilot uses Microsoft 365 security to protect your data and runs all its services inside your organization’s compliance boundary.
+"Within Microsoft Copilot Chat running within the work scope, Copilot uses Microsoft 365 security to protect your data and runs all its services inside your organization’s compliance boundary.
 
 Here, in the work scope, we’re enhancing Copilot with information from the Microsoft Graph. Let’s start with some basic knowledge management. Finding out where and from whom I can get information is a perennial knowledge management challenge. Let’s see who in my organization can tell me about grounding and LLMs.
 

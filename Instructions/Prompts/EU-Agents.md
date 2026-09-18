@@ -6,7 +6,7 @@ task:
 
 ## Immersion Experience – Agents (Business Users)
 
-Discover how Microsoft 365 Copilot and Agent builder can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
+Discover how Microsoft Copilot and Agent builder can help you solve everyday productivity challenges by designing a simple **retrieval-based agent**. This streamlined exercise will walk you through identifying a common issue, exploring how AI could help, and then creating a simple agent to test.  
 
 You'll perform three tasks:
 

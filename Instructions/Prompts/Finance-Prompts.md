@@ -6,7 +6,7 @@ task:
 
 ## Immersion Experience - Finance  
 
-Improve financial decision-making by using Microsoft 365 Copilot to collect, analyze, and document key financial insights.
+Improve financial decision-making by using Microsoft Copilot to collect, analyze, and document key financial insights.
 
 You'll perform three tasks:  
 
@@ -18,7 +18,7 @@ You'll perform three tasks:
 
 ### Task 1: Collect Financial Data  
 
-Using **Microsoft 365 Copilot Chat**, gather relevant financial data, including market trends, revenue insights, and cost structures for a company or industry of your choice. This information helps establish a solid foundation for financial analysis, ensuring you have accurate data points to assess business performance.
+Using **Microsoft Copilot Chat**, gather relevant financial data, including market trends, revenue insights, and cost structures for a company or industry of your choice. This information helps establish a solid foundation for financial analysis, ensuring you have accurate data points to assess business performance.
 
 **Steps**:
 
@@ -37,7 +37,7 @@ Summarize key financial indicators for [company/industry] over the last year, in
 
 ### Task 2: Evaluate Financial Impacts and Trends  
 
-Using **Microsoft 365 Copilot Chat**, evaluate the financial data you’ve collected to identify trends, risks, and opportunities. Analyze cost fluctuations, revenue growth patterns, and other key indicators to extract meaningful insights that can inform decision-making.
+Using **Microsoft Copilot Chat**, evaluate the financial data you’ve collected to identify trends, risks, and opportunities. Analyze cost fluctuations, revenue growth patterns, and other key indicators to extract meaningful insights that can inform decision-making.
 
 **Sample Prompt**:
 

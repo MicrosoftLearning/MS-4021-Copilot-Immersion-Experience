@@ -10,7 +10,7 @@ Drive tech engagement and user satisfaction by researching upcoming product or s
 
 You'll perform three tasks:  
 
-- Research upcoming features using **Microsoft 365 Copilot Chat**.  
+- Research upcoming features using **Microsoft Copilot Chat**.  
 - Draft an announcement using **Copilot in Word**.  
 - Create a survey using **Copilot in Forms**.  
 
@@ -18,7 +18,7 @@ You'll perform three tasks:
 
 ### Task 1: Research upcoming features  
 
-Using **Microsoft 365 Copilot Chat**, research the upcoming features of a product or service of your choice. Focus on identifying updates that align with your organization’s goals and address key business needs.  
+Using **Microsoft Copilot Chat**, research the upcoming features of a product or service of your choice. Focus on identifying updates that align with your organization’s goals and address key business needs.  
 
 **Steps**:
 
