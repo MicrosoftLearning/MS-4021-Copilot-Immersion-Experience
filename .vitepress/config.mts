@@ -16,6 +16,9 @@ const demos = [
   { text: "11 · Finance", link: "/Instructions/Demos/11-Finance-Demo" },
   { text: "12 · Researcher & Analyst", link: "/Instructions/Demos/12-Researcher-Analyst-Demo" },
   { text: "13 · Agent Builder", link: "/Instructions/Demos/13-Copilot-studio-Demo" },
+  { text: "14 · Cowork Project Tracker", link: "/Instructions/Demos/14-Cowork-Project-Tracker-Demo" },
+  { text: "15 · Cowork Skill Builder", link: "/Instructions/Demos/15-Cowork-Skill-Builder-Demo" },
+  { text: "16 · Cowork Schedule Research", link: "/Instructions/Demos/16-Cowork-Schedule-Research-Demo" },
 ];
 
 const execDemos = [
@@ -62,7 +65,7 @@ const workshopPrompts = [
 export default defineConfig({
   title: "Copilot Immersion Experience",
   description:
-    "Prompts, demos, and guides for the Microsoft 365 Copilot Immersion Experience (MS-4021).",
+    "Prompts, demos, and guides for the Microsoft Copilot Immersion Experience (MS-4021).",
   base,
 
   // IMPORTANT: keep this false. It preserves the existing published URLs
@@ -119,7 +122,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: "Microsoft 365 Copilot Immersion Experience (MS-4021)",
+      message: "Microsoft Copilot Immersion Experience (MS-4021)",
       copyright: "© Microsoft. All rights reserved.",
     },
   },

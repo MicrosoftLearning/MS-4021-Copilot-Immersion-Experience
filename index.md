@@ -4,10 +4,10 @@ layout: home
 hero:
   name: Copilot Immersion Experience
   text: Prompts, demos, and guides
-  tagline: Practical, role-based ways to put Microsoft 365 Copilot to work — prompts you can try today, plus step-by-step demos of what's possible.
+  tagline: Practical, role-based ways to put Microsoft Copilot to work — prompts you can try today, plus step-by-step demos of what's possible.
   image:
     src: /copilot-icon.svg
-    alt: Microsoft 365 Copilot
+    alt: Microsoft Copilot
   actions:
     - theme: brand
       text: Find prompts for your role
@@ -202,6 +202,27 @@ hero:
     <span class="demo-card-emoji">🤖</span>
     <span class="demo-card-title">Build an Agent with Agent Builder</span>
     <span class="demo-card-desc">Describe, ground, and publish a working agent in minutes — no code required.</span>
+    <span class="demo-card-cta">Open demo →</span>
+  </a>
+  <a class="demo-card" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/14-Cowork-Project-Tracker-Demo.html">
+    <span class="demo-card-meta"><span class="demo-card-badge">Demo 14</span></span>
+    <span class="demo-card-emoji">📋</span>
+    <span class="demo-card-title">Cowork Project Tracker</span>
+    <span class="demo-card-desc">Turn a project file into an interactive Kanban board, summary email, and Teams update in one request.</span>
+    <span class="demo-card-cta">Open demo →</span>
+  </a>
+  <a class="demo-card" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/15-Cowork-Skill-Builder-Demo.html">
+    <span class="demo-card-meta"><span class="demo-card-badge">Demo 15</span></span>
+    <span class="demo-card-emoji">🧩</span>
+    <span class="demo-card-title">Cowork Skill Builder</span>
+    <span class="demo-card-desc">Use the guided builder to create and test a reusable skill that drafts messages in your voice.</span>
+    <span class="demo-card-cta">Open demo →</span>
+  </a>
+  <a class="demo-card" href="/MS-4021-Copilot-Immersion-Experience/Instructions/Demos/16-Cowork-Schedule-Research-Demo.html">
+    <span class="demo-card-meta"><span class="demo-card-badge">Demo 16</span></span>
+    <span class="demo-card-emoji">⏰</span>
+    <span class="demo-card-title">Cowork Schedule Research</span>
+    <span class="demo-card-desc">Schedule a recurring closing-bell research brief with an Excel tracker and email delivery on approval.</span>
     <span class="demo-card-cta">Open demo →</span>
   </a>
 </div>

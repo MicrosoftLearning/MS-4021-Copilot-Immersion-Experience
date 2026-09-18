@@ -1,0 +1,26 @@
+Task ID,Workstream,Task,Status,Priority,% Complete,Start Date,Due Date,Owner,Notes
+T-001,Planning,Define project scope and success metrics,Completed,High,100%,2026-06-06,2026-06-16,Program Management,Signed off at kickoff review
+T-002,Planning,Build delivery timeline and milestones,Completed,High,100%,2026-06-12,2026-06-23,Program Management,Baseline locked
+T-003,Design,Draft information architecture,Completed,Medium,100%,2026-06-20,2026-07-06,Design,
+T-004,Design,Create high-fidelity mockups,In Progress,High,70%,2026-07-09,2026-08-06,Design,Awaiting feedback on two screens
+T-005,Design,Accessibility review of UI components,Not Started,Medium,0%,,2026-08-20,Design,Depends on T-004
+T-006,Engineering,Stand up project repository and CI,Completed,High,100%,2026-06-26,2026-07-04,Engineering,
+T-007,Engineering,Implement authentication module,In Progress,High,55%,2026-07-10,2026-08-13,Engineering,Token refresh edge cases open
+T-008,Engineering,Build data import pipeline,In Progress,Medium,40%,2026-07-16,2026-08-27,Engineering,
+T-009,Engineering,Integrate reporting dashboard,Blocked,High,20%,2026-07-23,2026-08-20,Engineering,Blocked by pending API contract
+T-010,Engineering,Optimize database queries,Not Started,Low,0%,,2026-09-10,Engineering,
+T-011,Quality,Write test plan and coverage targets,Completed,Medium,100%,2026-07-02,2026-07-13,Quality Assurance,
+T-012,Quality,Automate regression test suite,In Progress,Medium,35%,2026-07-18,2026-09-03,Quality Assurance,
+T-013,Quality,Run security and penetration tests,Not Started,High,0%,,2026-09-17,Quality Assurance,Scheduled after feature freeze
+T-014,Content,Draft user documentation,In Progress,Medium,50%,2026-07-24,2026-08-31,Documentation,
+T-015,Content,Produce onboarding tutorial,Not Started,Low,0%,,2026-09-24,Documentation,
+T-016,Operations,Provision staging environment,Completed,High,100%,2026-07-05,2026-07-12,Operations,
+T-017,Operations,Define rollback and recovery plan,In Progress,High,60%,2026-08-02,2026-08-18,Operations,
+T-018,Operations,Set up monitoring and alerting,Blocked,Medium,15%,2026-08-04,2026-08-25,Operations,Waiting on dashboard from T-009
+T-019,Launch,Prepare release notes,Not Started,Medium,0%,,2026-10-01,Program Management,
+T-020,Launch,Plan go-live communications,Not Started,High,0%,,2026-10-08,Program Management,Pending final launch date
+T-021,Engineering,Implement role-based access controls,In Progress,High,45%,2026-08-09,2026-09-07,Engineering,
+T-022,Quality,Conduct usability testing sessions,Not Started,Medium,0%,,2026-09-14,Quality Assurance,
+T-023,Design,Finalize iconography and visual style,In Progress,Low,30%,2026-08-11,2026-09-01,Design,
+T-024,Operations,Capacity and load planning,Not Started,Medium,0%,,2026-09-28,Operations,
+T-025,Engineering,Address backlog of minor bug fixes,In Progress,Low,25%,2026-08-16,2026-09-21,Engineering,Ongoing
