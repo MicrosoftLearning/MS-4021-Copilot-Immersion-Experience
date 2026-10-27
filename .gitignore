@@ -9,3 +9,7 @@ ResourceFiles/.sources/
 
 # Word/Excel/PowerPoint lock files
 ~$*
+
+# Local-only skills
+skills/
+

@@ -78,6 +78,7 @@ export default defineConfig({
     "Allfiles/**",
     ".github/**",
     "node_modules/**",
+    "skills/**",
   ],
 
   ignoreDeadLinks: true,
