@@ -5,7 +5,7 @@ task:
 ---
 
 <script setup>
-import coachSkillUrl from '../../skills/plan-help/SKILL.md?url'
+import { withBase } from 'vitepress'
 </script>
 
 # Build Your 90-day AI Plan
@@ -33,7 +33,7 @@ You will:
 <div class="callout-bubble">
 <span class="callout-bubble-icon" aria-hidden="true">&#128229;</span>
 <p><strong>Download the workshop coach skill</strong><br>
-<a :href="coachSkillUrl" download="SKILL.md">Download SKILL.md</a> for the interactive 90-day AI Plan coach.</p>
+<a :href="withBase('/downloads/90-day-plan/SKILL.md')" download="SKILL.md">Download SKILL.md</a> for the interactive 90-day AI Plan coach.</p>
 </div>
 
 ## Before you begin
