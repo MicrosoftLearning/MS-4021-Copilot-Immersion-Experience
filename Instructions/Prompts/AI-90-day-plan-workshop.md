@@ -60,6 +60,35 @@ watch(() => route.hash, expandStepForHash)
   white-space: nowrap;
 }
 
+.approach-cards {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.approach-card h3,
+.approach-card p {
+  margin: 0;
+}
+
+.approach-card h3 {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.approach-card--coach {
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.approach-tagline {
+  color: var(--vp-c-text-1);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
 .section-caption {
   margin-top: -8px;
   color: var(--vp-c-text-2);
@@ -302,59 +331,89 @@ watch(() => route.hash, expandStepForHash)
 Define a clear **12-month AI aspiration** and turn one initiative into a focused **90-day plan**.
 
 <div class="workshop-meta" aria-label="Workshop at a glance">
-<span>35-minute core</span>
-<span>5 core steps</span>
-<span>2 optional extras</span>
+<span>35-minute workshop</span>
+<span>5 steps</span>
+<span>2 optional extra steps</span>
 </div>
 
 ## Choose how to work
 
-Copilot is your thinking partner. You choose the problem, confirm the decisions, and own the final plan.
+### Give Cowork a workshop playbook
 
-| Approach | What you do |
-| --- | --- |
-| **Option A - Use the coach skill** | Send the short request shown first in each step. The coach drafts with you, asks focused questions, and carries your confirmed decisions forward. |
-| **Option B - Use the sample prompts** | Lead the process yourself, using the prompts and guidance to develop and record your decisions. |
+A **skill** is a reusable set of instructions that tells Cowork how to handle a specific task. The **AI Impact Coach** skill provides the workshop structure: it asks focused questions, helps refine your thinking, and builds your plan from the decisions you confirm.
+
+The Option A requests call the coach skill by name instead of repeating its full instructions. Once the coach is active, reply naturally to its questions. You still supply the business context and make the decisions.
+
+<div class="approach-cards">
+
+<div class="demo-card approach-card approach-card--coach">
+
+<h3 class="demo-card-title">Option A - Use AI Impact Coach</h3>
+<p class="approach-tagline">Let Cowork guide the conversation.</p>
+<p class="demo-card-desc">Upload AI Impact Coach once, start a new task, and use the named request shown in each step. The coach helps develop your answers and carries confirmed decisions forward within your workshop task.</p>
+
+</div>
+
+<div class="demo-card approach-card">
+
+<h3 class="demo-card-title">Option B - Use the sample prompts</h3>
+<p class="approach-tagline">You guide the conversation with Copilot.</p>
+<p class="demo-card-desc">No coach setup needed. Lead the conversation in your own words, or use the sample prompts as a starting point. Refine Copilot's responses and collect your chosen outputs in your preferred document.</p>
+
+</div>
+
+</div>
 
 **Choose one approach per step. You don't need to do both.** You can switch approaches at any time.
 
-Select a step title to expand its instructions. You can keep multiple steps open.
+Select a step title to expand its instructions.
 
 ## Before you begin
 
-1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/) and select **Cowork**.
+1. Open [Microsoft Copilot](https://m365.cloud.microsoft/chat/)
+1. With **Microsoft 365 Copilot Chat open**, select the **Cowork** tab below the prompt window.
 
-1. Use **one Cowork task for the workshop** so your earlier answers stay in the conversation. If you use the sample prompts, also keep your chosen outputs together in Word, OneNote, Copilot Pages, or another tool of your choice.
+    ![Cowork task](./Media/cowork-home.png)
+
+<div class="completion-callout" role="note" aria-labelledby="your-core-workshop-is-complete">
+
+## Note: 
+**Use one Cowork task for the entire workshop**. If you're using the coach, install the skill before starting a new task.
+
+</div>
 
 ### Set up the coach (only if you plan to use it)
 
-If you will use only the sample prompts, skip this setup and [start Step 1](#step-1-name-the-problem).
+If you aren't using the coach, skip this setup and [start Step 1](#step-1-name-the-problem).
 
 <div class="callout-bubble skill-download-card">
-<p><strong>Workshop coach skill</strong><br>Download, then upload the file to add the interactive coach to Cowork.</p>
+<p><strong>AI Impact Coach</strong><br>Download, then upload the file to install the <code>ai-impact-coach</code> skill in Cowork.</p>
 <a class="skill-download" :href="withBase('/downloads/90-day-plan/SKILL.md')" download="SKILL.md">Download SKILL.md</a>
 </div>
 
 1. Download the skill file using the link above.
 
-1. In the left navigation, select **plugins**, and then select the **Cowork** tab.
+1. In the left navigation, select **plugins**.
+
+    ![Plugins tab](./Media/plugins-cowork.png)
+
+1. In the plugins page, select the **Cowork** tab.
 
     ![Plugins page with the Cowork tab highlighted and the Add menu visible](./Media/cowork-skills.png)
 
-1. Select **Add**, and then select **Upload**. Drag the downloaded **SKILL.md** file into the upload area, or select **Choose file** to browse to it.
+1. Select **Add**, and then select **Upload**.
 
-1. Return to your workshop task and [start Step 1](#step-1-name-the-problem). Use the request shown in **Option A** to ask the coach for help.
+    ![Upload skill file](./Media/add-skill-cowork.png)
 
-**Joining the coach at a later step?** Start with that step's request. If your earlier decisions aren't already in the task, share your notes when the coach asks. You don't need to repeat completed steps.
+1. Drag the downloaded **SKILL.md** file into the upload area, or select **Choose file** to browse to it.
 
-<details class="setup-screenshots">
-<summary>Show where to find Cowork</summary>
+    ![Upload skill file](./Media/upload-skill.png)
 
-**Open Copilot and select Cowork.**
+1. Once the skill is installed, return to **Cowork** and start a **new task** for the workshop. Use the request shown in **Option A**, including the skill name, to start the coach.
 
-![Microsoft Copilot showing Cowork highlighted in a white box](../Prompts/Media/cowork-select-cowork.png)
-
-</details>
+    <div class="callout-bubble">
+    <p><strong>A new task is required after installation.</strong><br>Tasks that were already running will not load the newly installed skill. Use the new task for the rest of the workshop. If you already completed any steps, copy your earlier decisions into it.</p>
+    </div>
 
 ## Build your plan
 
@@ -363,27 +422,29 @@ If you will use only the sample prompts, skip this setup and [start Step 1](#ste
 <details class="workshop-step">
 <summary>
 
-## <span class="step-number ignore-header">1</span><span class="step-title">Name the Problem</span><span class="step-meta ignore-header"><span class="step-time">5 min</span></span><span class="step-chevron ignore-header" aria-hidden="true"></span><span class="step-description ignore-header">Define the business bottleneck you want to address.</span> {#step-1-name-the-problem}
+## <span class="step-number ignore-header">1</span><span class="step-title">Name the Problem</span><span class="step-meta ignore-header"><span class="step-time">5 min</span></span><span class="step-chevron ignore-header" aria-hidden="true"></span><span class="step-description ignore-header">Clarify a problem affecting your business unit or function.</span> {#step-1-name-the-problem}
 
 </summary>
 
 <div class="step-body">
 
-**Finish this step with:** a short business problem, the area you lead, and the systems or tools where this work runs today.
+**Finish this step with:** a short, confirmed statement of a real problem affecting your business unit, function, or organization.
 
-Focus on a **business-level** problem in the area you lead, not personal productivity, a tool rollout, or a company-wide transformation.
+Start with a business problem your area is actually facing. A rough description is enough; Copilot will help you clarify it.
+
+**Focus on organization-level outcomes — not individual productivity.** Keep the scope within your business unit or function, rather than a tool rollout or company-wide transformation.
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 Send this request in your workshop task:
 
 ```text
-Help me brainstorm a problem
+Use the ai-impact-coach skill to clarify my business problem.
 ```
 
-Tell the coach what you lead. Confirm the problem and where the work lives today, then [continue to Step 2](#step-2-define-your-ai-aspiration-12-month). **Skip Option B.**
+Share your business unit or function and a problem affecting its outcomes. Confirm the coach's wording, then [continue to Step 2](#step-2-define-your-ai-aspiration-12-month). **Skip Option B.**
 
 </div>
 
@@ -392,29 +453,22 @@ Tell the coach what you lead. Confirm the problem and where the work lives today
 Fill in the brackets and send this prompt. Rough answers are fine.
 
 ```text
-I lead [business unit or function].
-The business bottleneck is [what is not moving and who is affected].
-It matters because [business impact].
-This work runs in [systems or tools, or "not sure"].
+In [business unit or function], we're struggling with [describe the problem].
 
-Help me sharpen this into a 1–2 sentence business problem.
-Focus on a problem in the area I lead, not personal productivity,
-a tool rollout, or a company-wide transformation.
+I'd like a short, clear problem statement that explains what's happening
+and why it matters to the business. If you need more context, ask me
+rather than making assumptions.
+
+Focus on organization-level outcomes — not individual productivity.
+Let's understand the problem before exploring AI solutions.
 ```
 
-Record the problem you want to tackle and the systems or tools involved. If you don't know the systems yet, write "Not specified."
+Confirm or refine the wording, then record your business problem.
 
 <details>
-<summary>Need inspiration? Explore the four AI value areas</summary>
+<summary>Not sure how to describe the problem?</summary>
 
-| Value area | Example, not your answer |
-| --- | --- |
-| Enrich employee experiences | Field and frontline teams cannot get the current procedure, or an expert, while the job is in progress. First-time resolution stays low, and the same work gets redone. |
-| Reinvent customer engagement | Customer requests sit until someone manually routes them. Response time and the answer depend on who happens to be free. |
-| Reshape business processes | Replenishment or production decisions are made from yesterday's report. Stockouts, downtime, or excess show up before anyone can act. |
-| Bend the curve on innovation | New designs wait on a small group of specialists to draft and revise them. The launch cycle is longer than the demand shift you are trying to meet. |
-
-Use these patterns for inspiration. Your problem should reflect your own area, not copy an example.
+Think about a recent process delay, rework, or service issue affecting your business unit, function, or customers. Describe what happened in your own words; Copilot can help you turn that real example into a clearer business problem statement.
 
 </details>
 
@@ -431,41 +485,37 @@ Use these patterns for inspiration. Your problem should reflect your own area, n
 
 <div class="step-body">
 
-**Finish this step with:** a 12-month AI aspiration, one primary success metric, and the AI value area it supports.
+**Finish this step with:** a one-sentence 12-month AI aspiration and one primary success metric.
 
-Focus on a business outcome. Use real baselines and targets where known; otherwise, use placeholders rather than invented numbers.
+Define what better would look like for your business unit, function, or organization. You don't need baselines or targets yet; those come with the 90-day plan in Step 5.
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 ```text
-Help me define my 12-month aspiration
+Use the ai-impact-coach skill to define my 12-month aspiration.
 ```
 
-Confirm the aspiration and choose a metric you could stand behind. Share its baseline if known, then [continue to Step 3](#step-3-identify-your-ai-initiatives). **Skip Option B.**
+Refine the aspiration if needed and choose one metric that would show meaningful progress, then [continue to Step 3](#step-3-identify-your-ai-initiatives). **Skip Option B.**
 
 </div>
 
 ### Option B - Use the sample prompts
 
-Use your Step 1 decisions in this prompt:
+Continue in the same workshop task. If you are starting at this step, share a short description of your business problem first.
 
 ```text
-For my [business unit or function], I want to address:
-[paste your business problem]
+Using the business problem we just clarified, draft:
+- A clear, one-sentence 12-month AI aspiration
+- Two possible success metrics
 
-This work runs in [systems or tools, or "not specified"].
-
-Suggest a clear 12-month AI aspiration focused on business impact,
-not a tool rollout or personal productivity.
-
-Include a short title, why it matters, and the AI value area it supports.
-Suggest two candidate success metrics I could measure.
-For each, show [baseline] -> [target], using placeholders for unknown values.
+Focus on organization-level outcomes — not individual productivity.
+Focus on the business outcome, not deploying a tool.
+Do not invent baselines or targets.
 ```
 
-Choose **one primary metric**. Record your aspiration, value area, metric, and any known baseline or target.
+Refine the aspiration if needed and choose **one primary metric**. Record both.
 
 </div>
 
@@ -482,17 +532,17 @@ Choose **one primary metric**. Record your aspiration, value area, metric, and a
 
 **Finish this step with:** one existing initiative contributing to your aspiration and one new opportunity that could accelerate it.
 
-Keep each initiative practical and tied to the systems where the work already happens.
+This is where you consider the systems or tools the work runs in. If you don't know them yet, say "not sure" and keep the recommendations high level.
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 ```text
-Help me identify initiatives
+Use the ai-impact-coach skill to identify initiatives.
 ```
 
-Confirm one existing initiative and one new opportunity, then [continue to Step 4](#step-4-prioritize-your-focus). **Skip Option B.**
+Share the systems or tools involved if the coach asks. Confirm one existing initiative and one new opportunity, then [continue to Step 4](#step-4-prioritize-your-focus). **Skip Option B.**
 
 </div>
 
@@ -502,11 +552,12 @@ Confirm one existing initiative and one new opportunity, then [continue to Step 
 Based on this AI aspiration:
 [paste your aspiration]
 
-The work runs in [systems or tools].
+The work runs in [systems or tools, or "not sure"].
 An effort already in motion is [existing effort, if known].
 
 Suggest 2–3 practical AI initiatives that could help achieve this outcome.
 Use Microsoft AI capabilities that fit these systems without replacing them.
+If the systems are unknown, keep technology suggestions high level.
 Distinguish between building on an existing effort and a new opportunity.
 If the existing effort is unknown, label any assumption for me to confirm.
 ```
@@ -532,10 +583,10 @@ Choose the initiative most likely to deliver measurable value in 90 days, not th
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 ```text
-Help me prioritize focus
+Use the ai-impact-coach skill to prioritize my focus.
 ```
 
 Confirm your chosen initiative and what you will leave out of scope, then [continue to Step 5](#step-5-design-your-90-day-plan). **Skip Option B.**
@@ -575,10 +626,10 @@ Keep the pilot small. Both approaches should identify one primary KPI, an accoun
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 ```text
-Help me draft the 90-day plan
+Use the ai-impact-coach skill to draft my 90-day plan.
 ```
 
 Review the draft and download the **Word document the coach creates**. Check the accountable owner, pilot scope, and any placeholders.
@@ -609,6 +660,7 @@ In Storytelling, explain repeatability and choose the Frontier pattern:
 human with assistant, human-agent teams, or human-led, agent-operated.
 Add one milestone each for days 30, 60, and 90.
 Use placeholders for unknown facts, baselines, targets, or owners.
+If the baseline is unknown, include measuring it in the first 30 days.
 ```
 
 Check the draft against this framework, then save your plan in Word, OneNote, Copilot Pages, or your chosen tool.
@@ -667,10 +719,10 @@ If you have time, continue with the optional review and executive pitch below.
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 ```text
-Review my draft plan
+Use the ai-impact-coach skill to review my draft plan.
 ```
 
 If your draft isn't already in the task, share it when the coach asks. Choose which suggested edits to accept. If the coach created your Word plan, it will update that document; download the latest version.
@@ -720,10 +772,10 @@ Choose the edits you agree with and update your saved plan yourself.
 
 <div class="coach-panel">
 
-### Option A - Use the coach skill
+### Option A - Use AI Impact Coach
 
 ```text
-Help me build the 1-minute pitch
+Use the ai-impact-coach skill to build my 1-minute pitch.
 ```
 
 Tell the coach who your stakeholder is and refine the pitch so it sounds like you. If the coach created your Word plan, it will add the pitch to that document; download the final version.
