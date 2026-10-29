@@ -368,7 +368,7 @@ The Option A requests call the coach skill by name instead of repeating its full
 
 <div class="callout-bubble">
 <p><strong>Tip: the more you share, the better your plan.</strong><br>
-Copilot only knows what you tell it. Give specifics such as rough numbers, names, and the systems you use; rough guesses are fine. Treat each draft as a starting point: push back, tweak, and ask follow-up questions until it sounds like you. Aim to reach Step 5 so you leave with your plan.</p>
+The coach works best when you share specific business context—rough numbers, names, and the systems you use. Estimates are fine. Treat each draft as a starting point: push back, tweak, and ask follow-up questions until it sounds like you. Aim to reach Step 5 so you leave with your plan.</p>
 </div>
 
 Select a step title to expand its instructions.
