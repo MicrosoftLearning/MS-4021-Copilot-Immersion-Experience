@@ -81,6 +81,15 @@ export default defineConfig({
     "skills/**",
   ],
 
+  vite: {
+    server: {
+      watch: {
+        // srcExclude filters pages, not Vite's filesystem watcher.
+        ignored: ["**/skills/**"],
+      },
+    },
+  },
+
   ignoreDeadLinks: true,
   lastUpdated: true,
 
